@@ -1,0 +1,1508 @@
+Script started on Tue 08 Mar 2016 01:07:54 AM PST
+]0;linux@ubuntu: ~/Desktop/workspacelinux@ubuntu:~/Desktop/workspace$ llllllllllllll[K[K[K[K[K[K[K[K[K[K[K[K[K[K
+]0;linux@ubuntu: ~/Desktop/workspacelinux@ubuntu:~/Desktop/workspace$ 
+]0;linux@ubuntu: ~/Desktop/workspacelinux@ubuntu:~/Desktop/workspace$ 
+]0;linux@ubuntu: ~/Desktop/workspacelinux@ubuntu:~/Desktop/workspace$ 
+]0;linux@ubuntu: ~/Desktop/workspacelinux@ubuntu:~/Desktop/workspace$ [H[2J]0;linux@ubuntu: ~/Desktop/workspacelinux@ubuntu:~/Desktop/workspace$ file
+Usage: file [-bchikLlNnprsvz0] [--apple] [--mime-encoding] [--mime-type]
+            [-e testname] [-F separator] [-f namefile] [-m magicfiles] file ...
+       file -C [-m magicfiles]
+       file [--help]
+]0;linux@ubuntu: ~/Desktop/workspacelinux@ubuntu:~/Desktop/workspace$ file namefile
+namefile: ERROR: cannot open `namefile' (No such file or directory)
+]0;linux@ubuntu: ~/Desktop/workspacelinux@ubuntu:~/Desktop/workspace$ touch file1
+]0;linux@ubuntu: ~/Desktop/workspacelinux@ubuntu:~/Desktop/workspace$ fl[Kile file1
+file1: empty
+]0;linux@ubuntu: ~/Desktop/workspacelinux@ubuntu:~/Desktop/workspace$ i[Kvim filr1[K[Ke1
+[?1049h[?1h=[1;33r[?12;25h[?12l[?25h[27m[m[H[2J[?25l[32;1H"file1" 0L, 0C[>c[1;1H[1m file1 [m[7m                                                                                                                               [m[2;1H[33m  1 [m
+[34m~                                                                                                                                     [4;1H~                                                                                                                                     [5;1H~                                                                                                                                     [6;1H~                                                                                                                                     [7;1H~                                                                                                                                     [8;1H~                                                                                                                                     [9;1H~                                                                                                                                     [10;1H~                                                                                                                                     [11;1H~                                                                                                                                     [12;1H~                                                                                                                                     [13;1H~                                                                                                                                     [14;1H~                                                                                                                                     [15;1H~                                                                                                                                     [16;1H~                                                                                                                                     [17;1H~                                                                                                                                     [18;1H~                                                                                                                                     [19;1H~                                                                                                                                     [20;1H~                                                                                                                                     [21;1H~                                                                                                                                     [22;1H~                                                                                                                                     [23;1H~                                                                                                                                     [24;1H~                                                                                                                                     [25;1H~                                                                                                                                     [26;1H~                                                                                                                                     [27;1H~                                                                                                                                     [28;1H~                                                                                                                                     [29;1H~                                                                                                                                     [30;1H~                                                                                                                                     [m[31;1H[1m[7m ~/Desktop/workspace/file1   CWD: /home/linux/Desktop/workspace   Line: 0                                                             [2;5H[?12l[?25hP+q436f\P+q6b75\P+q6b64\P+q6b72\P+q6b6c\P+q2332\P+q2334\P+q2569\P+q2a37\P+q6b31\[?25l[m[32;1H[K[32;1H:[?12l[?25hq[?25l[?12l[?25h[?25l
+[32;1H[K[33;1H[?1l>[?12l[?25h[?1049l]0;linux@ubuntu: ~/Desktop/workspacelinux@ubuntu:~/Desktop/workspace$ [K]0;linux@ubuntu: ~/Desktop/workspacelinux@ubuntu:~/Desktop/workspace$ vim file1
+[?1049h[?1h=[1;34r[?12;25h[?12l[?25h[27m[m[H[2J[?25l[33;1H"file1" 0L, 0C[>c[1;1H[1m file1 [m[7m                                                                              [m[2;1H[33m  1 [m
+[34m~                                                                                    [4;1H~                                                                                    [5;1H~                                                                                    [6;1H~                                                                                    [7;1H~                                                                                    [8;1H~                                                                                    [9;1H~                                                                                    [10;1H~                                                                                    [11;1H~                                                                                    [12;1H~                                                                                    [13;1H~                                                                                    [14;1H~                                                                                    [15;1H~                                                                                    [16;1H~                                                                                    [17;1H~                                                                                    [18;1H~                                                                                    [19;1H~                                                                                    [20;1H~                                                                                    [21;1H~                                                                                    [22;1H~                                                                                    [23;1H~                                                                                    [24;1H~                                                                                    [25;1H~                                                                                    [26;1H~                                                                                    [27;1H~                                                                                    [28;1H~                                                                                    [29;1H~                                                                                    [30;1H~                                                                                    [31;1H~                                                                                    [m[32;1H[1m[7m ~/Desktop/workspace/file1   CWD: /home/linux/Desktop/workspace   Line: 0            [2;5H[?12l[?25hP+q436f\P+q6b75\P+q6b64\P+q6b72\P+q6b6c\P+q2332\P+q2334\P+q2569\P+q2a37\P+q6b31\[?25l[m[34;1H[33m-- INSERT --[2;5H[?12l[?25h[m[1;2H[1m+i lfile1 [?25l[m[2;4H[33m [mi[32;27H[1m[7m[+]   CWD: /home/linux/Desktop/workspace   Line: 1[2;6H[?12l[?25h[?25l[mii[?12l[?25h[?25lii[?12l[?25h[?25lii[?12l[?25h[?25lii[?12l[?25h[?25lii[?12l[?25h[?25li:[?12l[?25h[34;1H[K[2;11H[?25l[33;1H[K[2;11H[?12l[?25h[?25l[33;1H:[?12l[?25hw[?25l[?12l[?25hq[?25l[?12l[?25h[?25l"file1" 1L, 8C written
+
+[?1l>[?12l[?25h[?1049l]0;linux@ubuntu: ~/Desktop/workspacelinux@ubuntu:~/Desktop/workspace$ chmod 777 file1
+]0;linux@ubuntu: ~/Desktop/workspacelinux@ubuntu:~/Desktop/workspace$ ls 0[K-l file1
+-rwxrwxrwx 1 linux linux 8 Mar  8 01:09 [0m[01;32mfile1[0m
+]0;linux@ubuntu: ~/Desktop/workspacelinux@ubuntu:~/Desktop/workspace$ ./file1
+./file1: line 1: iiiiii:: command not found
+]0;linux@ubuntu: ~/Desktop/workspacelinux@ubuntu:~/Desktop/workspace$ chmod 123 file1
+]0;linux@ubuntu: ~/Desktop/workspacelinux@ubuntu:~/Desktop/workspace$ chmod 123 file1[8P./file1ls -l file1
+---x-w--wx 1 linux linux 8 Mar  8 01:09 [0m[01;32mfile1[0m
+]0;linux@ubuntu: ~/Desktop/workspacelinux@ubuntu:~/Desktop/workspace$ chmod 000 file1
+]0;linux@ubuntu: ~/Desktop/workspacelinux@ubuntu:~/Desktop/workspace$ chmod 000 file1[4Pls -l[C[C[C[C[C[C[4@chmod 000[C[C[C[C[C[C[4Pls -l[C[C[C[C[C[C[4@chmod 123[C[C[C[C[C[C[4Pls -l[C[C[C[C[C[C
+---------- 1 linux linux 8 Mar  8 01:09 file1
+]0;linux@ubuntu: ~/Desktop/workspacelinux@ubuntu:~/Desktop/workspace$ vim file1
+[?1049h[?1h=[1;34r[?12;25h[?12l[?25h[27m[m[H[2J[?25l[33;1H"file1" [Permission Denied][>c[1;1H[1m file1 [m[7m                                                                              [m[2;1H[33m  1 [m
+[34m~                                                                                    [4;1H~                                                                                    [5;1H~                                                                                    [6;1H~                                                                                    [7;1H~                                                                                    [8;1H~                                                                                    [9;1H~                                                                                    [10;1H~                                                                                    [11;1H~                                                                                    [12;1H~                                                                                    [13;1H~                                                                                    [14;1H~                                                                                    [15;1H~                                                                                    [16;1H~                                                                                    [17;1H~                                                                                    [18;1H~                                                                                    [19;1H~                                                                                    [20;1H~                                                                                    [21;1H~                                                                                    [22;1H~                                                                                    [23;1H~                                                                                    [24;1H~                                                                                    [25;1H~                                                                                    [26;1H~                                                                                    [27;1H~                                                                                    [28;1H~                                                                                    [29;1H~                                                                                    [30;1H~                                                                                    [31;1H~                                                                                    [m[32;1H[1m[7m ~/Desktop/workspace/file1[RO]   CWD: [RO]/home/linux/Desktop/workspace   Line: 0    [2;5H[?12l[?25hP+q436f\P+q6b75\P+q6b64\P+q6b72\P+q6b6c\P+q2332\P+q2334\P+q2569\P+q2a37\P+q6b31\[?25l[m[34;1H[33m-- INSERT --[m[33;1H[31mW10: Warning: Changing a readonly file[m[34;1H[K[34;1H[33m-- INSERT --[m[1;2H[1m+i lfile1 [m[2;4H[33m [mfjasfjkasfj[32;28H[1m[7m+][RO]   CWD: [RO]/home/linux/Desktop/workspace   Line: 1[2;16H[?12l[?25h[?25l[mjd[?12l[?25h[?25ldj[?12l[?25h[?25ljs[?12l[?25h[?25lsf[?12l[?25h[?25lfs[?12l[?25h[?25lsk[?12l[?25h[?25lkf[?12l[?25h[?25lfj[?12l[?25h[?25ljd[?12l[?25h[?25lds[?12l[?25h[?25lsf[?12l[?25h[?25lfj[?12l[?25h[?25lj:[?12l[?25h[34;1H[K[2;28H[?25l[33;1H[K[2;28H[?12l[?25h[?25l[33;1H:[?12l[?25hw[?25l[?12l[?25hq[?25l[?12l[?25h[?25l[1m[37m[41mE45: 'readonly' option is set (add ! to override)[2;28H[?12l[?25h[?25l[m[33;1H[K[33;1H:[?12l[?25hq[?25l[?12l[?25h![?25l[?12l[?25h[?25l
+[33;1H[K[34;1H[?1l>[?12l[?25h[?1049l]0;linux@ubuntu: ~/Desktop/workspacelinux@ubuntu:~/Desktop/workspace$ chmod 666 file1
+]0;linux@ubuntu: ~/Desktop/workspacelinux@ubuntu:~/Desktop/workspace$ ls -l file1
+-rw-rw-rw- 1 linux linux 8 Mar  8 01:09 file1
+]0;linux@ubuntu: ~/Desktop/workspacelinux@ubuntu:~/Desktop/workspace$ [H[2J]0;linux@ubuntu: ~/Desktop/workspacelinux@ubuntu:~/Desktop/workspace$ chmod
+chmod: missing operand
+Try `chmod --help' for more information.
+]0;linux@ubuntu: ~/Desktop/workspacelinux@ubuntu:~/Desktop/workspace$ ch[K[Kps
+  PID TTY          TIME CMD
+15829 pts/0    00:00:00 bash
+15972 pts/0    00:00:00 ps
+]0;linux@ubuntu: ~/Desktop/workspacelinux@ubuntu:~/Desktop/workspace$ os[K[Kps
+  PID TTY          TIME CMD
+15829 pts/0    00:00:00 bash
+15973 pts/0    00:00:00 ps
+]0;linux@ubuntu: ~/Desktop/workspacelinux@ubuntu:~/Desktop/workspace$ man ps
+[?1049h[?1h=PS(1)                           Linux User's Manual                          PS(1)[m
+[m
+[1mNAME[0m[m
+       ps - report a snapshot of the current processes.[m
+[m
+[1mSYNOPSIS[0m[m
+       [1mps[0m [[4moptions[24m][m
+[m
+[1mDESCRIPTION[0m[m
+       [1mps[0m displays information about a selection of the active processes. If you[m
+       want a repetitive update of the selection and the displayed information,[m
+       use [4mtop[24m(1) instead.[m
+[m
+       This version of [1mps[0m accepts several kinds of options:[m
+       1   UNIX options, which may be grouped and must be preceded by a dash.[m
+       2   BSD options, which may be grouped and must not be used with a dash.[m
+       3   GNU long options, which are preceded by two dashes.[m
+[m
+       Options of different types may be freely mixed, but conflicts can appear.[m
+       There are some synonymous options, which are functionally identical, due to[m
+       the many standards and [1mps[0m implementations that this [1mps[0m is compatible with.[m
+[m
+       Note that "[1mps[0m [1m-aux[0m" is distinct from "[1mps[0m [1maux[0m". The POSIX and UNIX standards[m
+       require that "[1mps[0m [1m-aux[0m" print all processes owned by a user named "x", as[m
+       well as printing all processes that would be selected by the [1m-a[0m option. If[m
+       the user named "x" does not exist, this [1mps[0m may interpret the command as[m
+       "[1mps[0m [1maux[0m" instead and print a warning. This behavior is intended to aid in[m
+       transitioning old scripts and habits. It is fragile, subject to change, and[m
+       thus should not be relied upon.[m
+[m
+       By default, [1mps[0m selects all processes with the same effective user ID[m
+       (euid=EUID) as the current user and associated with the same terminal as[m
+       the invoker. It displays the process ID (pid=PID), the terminal associated[m
+[7m Manual page ps(1) line 1 (press h for help or q to quit)[27m[K[K       with the process (tname=TTY), the cumulated CPU time in [DD-]hh:mm:ss[m
+[7m Manual page ps(1) line 2 (press h for help or q to quit)[27m[K[K       format (time=TIME), and the executable name (ucmd=CMD). Output is unsorted[m
+[7m Manual page ps(1) line 5 (press h for help or q to quit)[27m[K[K       by default.[m
+[7m Manual page ps(1) line 6 (press h for help or q to quit)[27m[K[K[m
+[7m Manual page ps(1) line 7 (press h for help or q to quit)[27m[K[K       The use of BSD-style options will add process state (stat=STAT) to the[m
+[7m Manual page ps(1) line 8 (press h for help or q to quit)[27m[K[K       default display and show the command args (args=COMMAND) instead of the[m
+[7m Manual page ps(1) line 9 (press h for help or q to quit)[27m[K[K       executable name. You can override this with the [1mPS_FORMAT[0m environment[m
+[7m Manual page ps(1) line 10 (press h for help or q to quit)[27m[K[K       variable. The use of BSD-style options will also change the process[m
+[7m Manual page ps(1) line 11 (press h for help or q to quit)[27m[K[K       selection to include processes on other terminals (TTYs) that are owned by[m
+[7m Manual page ps(1) line 12 (press h for help or q to quit)[27m[K[K       you; alternately, this may be described as setting the selection to be the[m
+[7m Manual page ps(1) line 13 (press h for help or q to quit)[27m[K[K       set of all processes filtered to exclude processes owned by other users or[m
+[7m Manual page ps(1) line 14 (press h for help or q to quit)[27m[K[K       not on a terminal. These effects are not considered when options are[m
+[7m Manual page ps(1) line 15 (press h for help or q to quit)[27m[K[K       described as being "identical" below, so [1m-M[0m will be considered identical to[m
+[7m Manual page ps(1) line 16 (press h for help or q to quit)[27m[K[K       [1mZ[0m and so on.[m
+[7m Manual page ps(1) line 17 (press h for help or q to quit)[27m[K[K[m
+[7m Manual page ps(1) line 18 (press h for help or q to quit)[27m[K[K       Except as described below, process selection options are additive. The[m
+[7m Manual page ps(1) line 19 (press h for help or q to quit)[27m[K[K       default selection is discarded, and then the selected processes are added[m
+[7m Manual page ps(1) line 20 (press h for help or q to quit)[27m[K[K       to the set of processes to be displayed. A process will thus be shown if it[m
+[7m Manual page ps(1) line 21 (press h for help or q to quit)[27m[K[K       meets any of the given selection criteria.[m
+[7m Manual page ps(1) line 22 (press h for help or q to quit)[27m[K[K[m
+[7m Manual page ps(1) line 23 (press h for help or q to quit)[27m[K[K[1mEXAMPLES[0m[m
+[7m Manual page ps(1) line 24 (press h for help or q to quit)[27m[K[K       To see every process on the system using standard syntax:[m
+[7m Manual page ps(1) line 25 (press h for help or q to quit)[27m[K[K          [1mps[0m [1m-e[0m[m
+[7m Manual page ps(1) line 26 (press h for help or q to quit)[27m[K[K          [1mps[0m [1m-ef[0m[m
+[7m Manual page ps(1) line 27 (press h for help or q to quit)[27m[K[K          [1mps[0m [1m-eF[0m[m
+[7m Manual page ps(1) line 28 (press h for help or q to quit)[27m[K[K          [1mps[0m [1m-ely[0m[m
+[7m Manual page ps(1) line 29 (press h for help or q to quit)[27m[K[K[m
+[7m Manual page ps(1) line 30 (press h for help or q to quit)[27m[K[K       To see every process on the system using BSD syntax:[m
+[7m Manual page ps(1) line 31 (press h for help or q to quit)[27m[K[K          [1mps[0m [1max[0m[m
+[7m Manual page ps(1) line 32 (press h for help or q to quit)[27m[K[K          [1mps[0m [1maxu[0m[m
+[7m Manual page ps(1) line 33 (press h for help or q to quit)[27m[K[K[m
+[7m Manual page ps(1) line 34 (press h for help or q to quit)[27m[K[K       To print a process tree:[m
+[7m Manual page ps(1) line 35 (press h for help or q to quit)[27m[K[K          [1mps[0m [1m-ejH[0m[m
+[7m Manual page ps(1) line 36 (press h for help or q to quit)[27m[K[K          [1mps[0m [1maxjf[0m[m
+[7m Manual page ps(1) line 37 (press h for help or q to quit)[27m[K[K[m
+[7m Manual page ps(1) line 38 (press h for help or q to quit)[27m[K[K       To get info about threads:[m
+[7m Manual page ps(1) line 39 (press h for help or q to quit)[27m[K[K          [1mps[0m [1m-eLf[0m[m
+[7m Manual page ps(1) line 40 (press h for help or q to quit)[27m[K[K          [1mps[0m [1maxms[0m[m
+[7m Manual page ps(1) line 41 (press h for help or q to quit)[27m[K[K[m
+[7m Manual page ps(1) line 42 (press h for help or q to quit)[27m[K[K       To get security info:[m
+[7m Manual page ps(1) line 43 (press h for help or q to quit)[27m[K[K          [1mps[0m [1m-eo[0m [1meuser,ruser,suser,fuser,f,comm,label[0m[m
+[7m Manual page ps(1) line 44 (press h for help or q to quit)[27m[K[K          [1mps[0m [1maxZ[0m[m
+[7m Manual page ps(1) line 45 (press h for help or q to quit)[27m[K[K          [1mps[0m [1m-eM[0m[m
+[7m Manual page ps(1) line 46 (press h for help or q to quit)[27m[K[K[m
+[7m Manual page ps(1) line 47 (press h for help or q to quit)[27m[K[K       To see every process running as root (real & effective ID) in user format:[m
+[7m Manual page ps(1) line 48 (press h for help or q to quit)[27m[K[K          [1mps[0m [1m-U[0m [1mroot[0m [1m-u[0m [1mroot[0m [1mu[0m[m
+[7m Manual page ps(1) line 49 (press h for help or q to quit)[27m[K[K[m
+[7m Manual page ps(1) line 50 (press h for help or q to quit)[27m[K[K       To see every process with a user-defined format:[m
+[7m Manual page ps(1) line 51 (press h for help or q to quit)[27m[K[K[?1l>[?1049l]0;linux@ubuntu: ~/Desktop/workspacelinux@ubuntu:~/Desktop/workspace$ ps -e
+  PID TTY          TIME CMD
+    1 ?        00:00:01 init
+    2 ?        00:00:00 kthreadd
+    3 ?        00:00:00 ksoftirqd/0
+    6 ?        00:00:00 migration/0
+    7 ?        00:00:00 watchdog/0
+    8 ?        00:00:00 cpuset
+    9 ?        00:00:00 khelper
+   10 ?        00:00:00 kdevtmpfs
+   11 ?        00:00:00 netns
+   12 ?        00:00:00 sync_supers
+   13 ?        00:00:00 bdi-default
+   14 ?        00:00:00 kintegrityd
+   15 ?        00:00:00 kblockd
+   16 ?        00:00:00 ata_sff
+   17 ?        00:00:00 khubd
+   18 ?        00:00:00 md
+   21 ?        00:00:00 khungtaskd
+   22 ?        00:00:01 kswapd0
+   23 ?        00:00:00 ksmd
+   24 ?        00:00:00 khugepaged
+   25 ?        00:00:00 fsnotify_mark
+   26 ?        00:00:00 ecryptfs-kthrea
+   27 ?        00:00:00 crypto
+   36 ?        00:00:00 kthrotld
+   38 ?        00:00:00 kworker/u:2
+   39 ?        00:00:00 scsi_eh_0
+   40 ?        00:00:00 scsi_eh_1
+   41 ?        00:00:01 kworker/u:3
+   43 ?        00:00:00 binder
+   63 ?        00:00:00 deferwq
+   64 ?        00:00:00 charger_manager
+   65 ?        00:00:00 devfreq_wq
+  178 ?        00:00:00 mpt_poll_0
+  180 ?        00:00:00 mpt/0
+  237 ?        00:00:00 scsi_eh_2
+  252 ?        00:00:01 jbd2/sda1-8
+  253 ?        00:00:00 ext4-dio-unwrit
+  338 ?        00:00:00 upstart-udev-br
+  340 ?        00:00:00 udevd
+  401 ?        00:00:00 ttm_swap
+  570 ?        00:00:00 kpsmoused
+  704 ?        00:00:01 rsyslogd
+  743 ?        00:00:01 flush-8:0
+  765 ?        00:00:00 upstart-socket-
+  792 ?        00:00:01 dbus-daemon
+  806 ?        00:00:00 modem-manager
+  822 ?        00:00:00 bluetoothd
+  857 ?        00:00:00 krfcommd
+  861 ?        00:00:08 avahi-daemon
+  862 ?        00:00:00 avahi-daemon
+  866 ?        00:00:00 cupsd
+  871 ?        00:00:00 NetworkManager
+  874 ?        00:00:00 polkitd
+  918 ?        00:00:00 dhclient
+  924 tty4     00:00:00 getty
+  932 ?        00:00:00 colord
+  934 tty5     00:00:00 getty
+  946 tty2     00:00:00 getty
+  947 tty3     00:00:00 getty
+  949 tty6     00:00:00 getty
+  961 ?        00:00:00 acpid
+  967 ?        00:00:00 lightdm
+  970 ?        00:00:00 cron
+  971 ?        00:00:00 atd
+  982 tty7     00:01:38 Xorg
+ 1003 ?        00:00:00 dnsmasq
+ 1020 ?        00:00:00 whoopsie
+ 1069 ?        00:00:00 tpvmlp
+ 1084 ?        00:00:00 accounts-daemon
+ 1279 ?        00:00:00 console-kit-dae
+ 1413 tty1     00:00:00 getty
+ 1704 ?        00:00:00 vmware-vmblock-
+ 1724 ?        00:00:25 vmtoolsd
+ 1754 ?        00:00:00 lightdm
+ 1766 ?        00:00:00 upowerd
+ 1826 ?        00:00:00 rtkit-daemon
+ 1998 ?        00:00:00 gnome-keyring-d
+ 2009 ?        00:00:00 gnome-session
+ 2044 ?        00:00:00 ssh-agent
+ 2047 ?        00:00:00 dbus-launch
+ 2048 ?        00:00:03 dbus-daemon
+ 2057 ?        00:00:02 gnome-settings-
+ 2067 ?        00:00:00 gvfsd
+ 2069 ?        00:00:00 gvfs-fuse-daemo
+ 2075 ?        00:00:04 metacity
+ 2084 ?        00:00:16 pulseaudio
+ 2087 ?        00:00:00 gconf-helper
+ 2089 ?        00:00:00 gconfd-2
+ 2113 ?        00:00:23 unity-2d-shell
+ 2114 ?        00:00:03 unity-2d-panel
+ 2119 ?        00:00:00 bluetooth-apple
+ 2121 ?        00:00:00 gnome-fallback-
+ 2122 ?        00:00:00 polkit-gnome-au
+ 2123 ?        00:00:04 nautilus
+ 2127 ?        00:00:00 nm-applet
+ 2128 ?        00:00:27 vmtoolsd
+ 2138 ?        00:00:00 gvfs-gdu-volume
+ 2140 ?        00:00:00 udisks-daemon
+ 2142 ?        00:00:02 bamfdaemon
+ 2147 ?        00:00:00 udisks-daemon
+ 2154 ?        00:00:01 gvfs-afc-volume
+ 2160 ?        00:00:00 gvfs-gphoto2-vo
+ 2188 ?        00:00:00 dconf-service
+ 2193 ?        00:00:00 gvfsd-trash
+ 2201 ?        00:00:00 gvfsd-burn
+ 2215 ?        00:00:03 unity-panel-ser
+ 2223 ?        00:00:00 indicator-print
+ 2225 ?        00:00:00 indicator-datet
+ 2227 ?        00:00:00 indicator-appli
+ 2229 ?        00:00:00 indicator-sound
+ 2231 ?        00:00:00 indicator-sessi
+ 2249 ?        00:00:00 indicator-messa
+ 2258 ?        00:00:00 geoclue-master
+ 2298 ?        00:00:00 ubuntu-geoip-pr
+ 2322 ?        00:00:00 gdu-notificatio
+ 2331 ?        00:00:00 gvfsd-metadata
+ 2337 ?        00:00:00 hud-service
+ 2352 ?        00:00:01 unity-applicati
+ 2354 ?        00:00:00 unity-files-dae
+ 2356 ?        00:00:00 unity-music-dae
+ 2358 ?        00:00:00 unity-lens-vide
+ 2378 ?        00:00:00 zeitgeist-daemo
+ 2390 ?        00:00:00 telepathy-indic
+ 2399 ?        00:00:00 zeitgeist-fts
+ 2402 ?        00:00:00 mission-control
+ 2403 ?        00:00:00 zeitgeist-datah
+ 2414 ?        00:00:00 goa-daemon
+ 2416 ?        00:00:00 cat
+ 2420 ?        00:00:00 unity-musicstor
+ 2446 ?        00:00:01 gnome-screensav
+ 2454 ?        00:00:00 unity-scope-vid
+ 2472 ?        00:00:01 update-notifier
+ 2487 ?        00:00:00 system-service-
+ 2491 ?        00:00:06 update-manager
+ 2522 ?        00:00:20 gnome-terminal
+ 2527 ?        00:00:00 gnome-pty-helpe
+ 2598 ?        00:00:00 deja-dup-monito
+ 2895 pts/1    00:00:01 bash
+ 6694 ?        00:00:16 firefox
+ 6712 ?        00:00:00 at-spi-bus-laun
+ 6800 ?        00:00:00 notify-osd
+11625 ?        00:00:00 dhclient
+11659 ?        00:00:00 dhclient
+13846 ?        00:00:00 rpcbind
+14080 ?        00:00:00 rpc.statd
+14143 ?        00:00:00 rpciod
+14144 ?        00:00:00 udevd
+14145 ?        00:00:00 udevd
+14146 ?        00:00:00 nfsiod
+14153 ?        00:00:00 rpc.idmapd
+15623 ?        00:00:00 kworker/0:0
+15735 ?        00:00:00 kworker/0:2
+15771 pts/1    00:00:00 bash
+15827 pts/1    00:00:00 script
+15828 pts/1    00:00:00 script
+15829 pts/0    00:00:00 bash
+15952 ?        00:00:00 kworker/0:1
+15991 pts/0    00:00:00 ps
+]0;linux@ubuntu: ~/Desktop/workspacelinux@ubuntu:~/Desktop/workspace$ ps -a
+  PID TTY          TIME CMD
+15771 pts/1    00:00:00 bash
+15827 pts/1    00:00:00 script
+15828 pts/1    00:00:00 script
+15992 pts/0    00:00:00 ps
+]0;linux@ubuntu: ~/Desktop/workspacelinux@ubuntu:~/Desktop/workspace$ ps
+  PID TTY          TIME CMD
+15829 pts/0    00:00:00 bash
+15993 pts/0    00:00:00 ps
+]0;linux@ubuntu: ~/Desktop/workspacelinux@ubuntu:~/Desktop/workspace$ ps -f
+UID        PID  PPID  C STIME TTY          TIME CMD
+linux    15829 15828  0 01:07 pts/0    00:00:00 bash -i
+linux    15995 15829  0 01:13 pts/0    00:00:00 ps -f
+]0;linux@ubuntu: ~/Desktop/workspacelinux@ubuntu:~/Desktop/workspace$ man ps
+[?1049h[?1h=PS(1)                           Linux User's Manual                          PS(1)[m
+[m
+[1mNAME[0m[m
+       ps - report a snapshot of the current processes.[m
+[m
+[1mSYNOPSIS[0m[m
+       [1mps[0m [[4moptions[24m][m
+[m
+[1mDESCRIPTION[0m[m
+       [1mps[0m displays information about a selection of the active processes. If you[m
+       want a repetitive update of the selection and the displayed information,[m
+       use [4mtop[24m(1) instead.[m
+[m
+       This version of [1mps[0m accepts several kinds of options:[m
+       1   UNIX options, which may be grouped and must be preceded by a dash.[m
+       2   BSD options, which may be grouped and must not be used with a dash.[m
+       3   GNU long options, which are preceded by two dashes.[m
+[m
+       Options of different types may be freely mixed, but conflicts can appear.[m
+       There are some synonymous options, which are functionally identical, due to[m
+       the many standards and [1mps[0m implementations that this [1mps[0m is compatible with.[m
+[m
+       Note that "[1mps[0m [1m-aux[0m" is distinct from "[1mps[0m [1maux[0m". The POSIX and UNIX standards[m
+       require that "[1mps[0m [1m-aux[0m" print all processes owned by a user named "x", as[m
+       well as printing all processes that would be selected by the [1m-a[0m option. If[m
+       the user named "x" does not exist, this [1mps[0m may interpret the command as[m
+       "[1mps[0m [1maux[0m" instead and print a warning. This behavior is intended to aid in[m
+       transitioning old scripts and habits. It is fragile, subject to change, and[m
+       thus should not be relied upon.[m
+[m
+       By default, [1mps[0m selects all processes with the same effective user ID[m
+       (euid=EUID) as the current user and associated with the same terminal as[m
+       the invoker. It displays the process ID (pid=PID), the terminal associated[m
+[7m Manual page ps(1) line 1 (press h for help or q to quit)[27m[K[K       with the process (tname=TTY), the cumulated CPU time in [DD-]hh:mm:ss[m
+[7m Manual page ps(1) line 2 (press h for help or q to quit)[27m[K[K       format (time=TIME), and the executable name (ucmd=CMD). Output is unsorted[m
+[7m Manual page ps(1) line 5 (press h for help or q to quit)[27m[K[K       by default.[m
+[7m Manual page ps(1) line 6 (press h for help or q to quit)[27m[K[K[m
+[7m Manual page ps(1) line 7 (press h for help or q to quit)[27m[K[K       The use of BSD-style options will add process state (stat=STAT) to the[m
+[7m Manual page ps(1) line 8 (press h for help or q to quit)[27m[K[K       default display and show the command args (args=COMMAND) instead of the[m
+[7m Manual page ps(1) line 9 (press h for help or q to quit)[27m[K[K       executable name. You can override this with the [1mPS_FORMAT[0m environment[m
+[7m Manual page ps(1) line 10 (press h for help or q to quit)[27m[K[K       variable. The use of BSD-style options will also change the process[m
+[7m Manual page ps(1) line 11 (press h for help or q to quit)[27m[K[K       selection to include processes on other terminals (TTYs) that are owned by[m
+[7m Manual page ps(1) line 12 (press h for help or q to quit)[27m[K[K       you; alternately, this may be described as setting the selection to be the[m
+[7m Manual page ps(1) line 13 (press h for help or q to quit)[27m[K[K       set of all processes filtered to exclude processes owned by other users or[m
+[7m Manual page ps(1) line 14 (press h for help or q to quit)[27m[K[K       not on a terminal. These effects are not considered when options are[m
+[7m Manual page ps(1) line 15 (press h for help or q to quit)[27m[K[K       described as being "identical" below, so [1m-M[0m will be considered identical to[m
+[7m Manual page ps(1) line 16 (press h for help or q to quit)[27m[K[K       [1mZ[0m and so on.[m
+[7m Manual page ps(1) line 17 (press h for help or q to quit)[27m[K[K[m
+[7m Manual page ps(1) line 18 (press h for help or q to quit)[27m[K[K       Except as described below, process selection options are additive. The[m
+[7m Manual page ps(1) line 19 (press h for help or q to quit)[27m[K[K       default selection is discarded, and then the selected processes are added[m
+[7m Manual page ps(1) line 20 (press h for help or q to quit)[27m[K[K       to the set of processes to be displayed. A process will thus be shown if it[m
+[7m Manual page ps(1) line 21 (press h for help or q to quit)[27m[K[K       meets any of the given selection criteria.[m
+[7m Manual page ps(1) line 22 (press h for help or q to quit)[27m[K[K[m
+[7m Manual page ps(1) line 23 (press h for help or q to quit)[27m[K[K[1mEXAMPLES[0m[m
+[7m Manual page ps(1) line 24 (press h for help or q to quit)[27m[K[K       To see every process on the system using standard syntax:[m
+[7m Manual page ps(1) line 25 (press h for help or q to quit)[27m[K[K          [1mps[0m [1m-e[0m[m
+[7m Manual page ps(1) line 26 (press h for help or q to quit)[27m[K[K          [1mps[0m [1m-ef[0m[m
+[7m Manual page ps(1) line 27 (press h for help or q to quit)[27m[K[K          [1mps[0m [1m-eF[0m[m
+[7m Manual page ps(1) line 28 (press h for help or q to quit)[27m[K[K          [1mps[0m [1m-ely[0m[m
+[7m Manual page ps(1) line 29 (press h for help or q to quit)[27m[K[K[m
+[7m Manual page ps(1) line 30 (press h for help or q to quit)[27m[K[K       To see every process on the system using BSD syntax:[m
+[7m Manual page ps(1) line 31 (press h for help or q to quit)[27m[K[K          [1mps[0m [1max[0m[m
+[7m Manual page ps(1) line 32 (press h for help or q to quit)[27m[K[K          [1mps[0m [1maxu[0m[m
+[7m Manual page ps(1) line 33 (press h for help or q to quit)[27m[K[K[m
+[7m Manual page ps(1) line 34 (press h for help or q to quit)[27m[K[K       To print a process tree:[m
+[7m Manual page ps(1) line 35 (press h for help or q to quit)[27m[K[K          [1mps[0m [1m-ejH[0m[m
+[7m Manual page ps(1) line 36 (press h for help or q to quit)[27m[K[K          [1mps[0m [1maxjf[0m[m
+[7m Manual page ps(1) line 37 (press h for help or q to quit)[27m[K[K[m
+[7m Manual page ps(1) line 38 (press h for help or q to quit)[27m[K[K       To get info about threads:[m
+[7m Manual page ps(1) line 39 (press h for help or q to quit)[27m[K[K          [1mps[0m [1m-eLf[0m[m
+[7m Manual page ps(1) line 40 (press h for help or q to quit)[27m[K[K          [1mps[0m [1maxms[0m[m
+[7m Manual page ps(1) line 41 (press h for help or q to quit)[27m[K[K[m
+[7m Manual page ps(1) line 42 (press h for help or q to quit)[27m[K[K       To get security info:[m
+[7m Manual page ps(1) line 43 (press h for help or q to quit)[27m[K[K          [1mps[0m [1m-eo[0m [1meuser,ruser,suser,fuser,f,comm,label[0m[m
+[7m Manual page ps(1) line 44 (press h for help or q to quit)[27m[K[K          [1mps[0m [1maxZ[0m[m
+[7m Manual page ps(1) line 45 (press h for help or q to quit)[27m[K[K          [1mps[0m [1m-eM[0m[m
+[7m Manual page ps(1) line 46 (press h for help or q to quit)[27m[K[K[m
+[7m Manual page ps(1) line 47 (press h for help or q to quit)[27m[K[K       To see every process running as root (real & effective ID) in user format:[m
+[7m Manual page ps(1) line 48 (press h for help or q to quit)[27m[K[K          [1mps[0m [1m-U[0m [1mroot[0m [1m-u[0m [1mroot[0m [1mu[0m[m
+[7m Manual page ps(1) line 49 (press h for help or q to quit)[27m[K[K[m
+[7m Manual page ps(1) line 50 (press h for help or q to quit)[27m[K[K       To see every process with a user-defined format:[m
+[7m Manual page ps(1) line 51 (press h for help or q to quit)[27m[K[K          [1mps[0m [1m-eo[0m [1mpid,tid,class,rtprio,ni,pri,psr,pcpu,stat,wchan:14,comm[0m[m
+[7m Manual page ps(1) line 52 (press h for help or q to quit)[27m[K[K          [1mps[0m [1maxo[0m [1mstat,euid,ruid,tty,tpgid,sess,pgrp,ppid,pid,pcpu,comm[0m[m
+[7m Manual page ps(1) line 53 (press h for help or q to quit)[27m[K[K          [1mps[0m [1m-eopid,tt,user,fname,tmout,f,wchan[0m[m
+[7m Manual page ps(1) line 54 (press h for help or q to quit)[27m[K[K[m
+[7m Manual page ps(1) line 55 (press h for help or q to quit)[27m[K[K       Print only the process IDs of syslogd:[m
+[7m Manual page ps(1) line 56 (press h for help or q to quit)[27m[K[K          [1mps[0m [1m-C[0m [1msyslogd[0m [1m-o[0m [1mpid=[0m[m
+[7m Manual page ps(1) line 57 (press h for help or q to quit)[27m[K[K[m
+[7m Manual page ps(1) line 58 (press h for help or q to quit)[27m[K[K       Print only the name of PID 42:[m
+[7m Manual page ps(1) line 59 (press h for help or q to quit)[27m[K[K          [1mps[0m [1m-p[0m [1m42[0m [1m-o[0m [1mcomm=[0m[m
+[7m Manual page ps(1) line 60 (press h for help or q to quit)[27m[K[K[m
+[7m Manual page ps(1) line 61 (press h for help or q to quit)[27m[K[K[1mSIMPLE[0m [1mPROCESS[0m [1mSELECTION[0m[m
+[7m Manual page ps(1) line 62 (press h for help or q to quit)[27m[K[K       [1ma[0m               Lift the BSD-style "only yourself" restriction, which is[m
+[7m Manual page ps(1) line 63 (press h for help or q to quit)[27m[K[K                       imposed upon the set of all processes when some BSD-style[m
+[7m Manual page ps(1) line 64 (press h for help or q to quit)[27m[K[K                       (without "-") options are used or when the [1mps[0m personality[m
+[7m Manual page ps(1) line 65 (press h for help or q to quit)[27m[K[K                       setting is BSD-like. The set of processes selected in this[m
+[7m Manual page ps(1) line 66 (press h for help or q to quit)[27m[K[K                       manner is in addition to the set of processes selected by[m
+[7m Manual page ps(1) line 67 (press h for help or q to quit)[27m[K[K                       other means. An alternate description is that this option[m
+[7m Manual page ps(1) line 68 (press h for help or q to quit)[27m[K[K                       causes [1mps[0m to list all processes with a terminal (tty), or[m
+[7m Manual page ps(1) line 69 (press h for help or q to quit)[27m[K[K                       to list all processes when used together with the [1mx[0m option.[m
+[7m Manual page ps(1) line 70 (press h for help or q to quit)[27m[K[K[m
+[7m Manual page ps(1) line 71 (press h for help or q to quit)[27m[K[K       [1m-A[0m              Select all processes. Identical to [1m-e[0m.[m
+[7m Manual page ps(1) line 72 (press h for help or q to quit)[27m[K[K[m
+[7m Manual page ps(1) line 73 (press h for help or q to quit)[27m[K[K       [1m-a[0m              Select all processes except both session leaders (see[m
+[7m Manual page ps(1) line 74 (press h for help or q to quit)[27m[K[K                       [4mgetsid[24m(2)) and processes not associated with a terminal.[m
+[7m Manual page ps(1) line 75 (press h for help or q to quit)[27m[K[K[m
+[7m Manual page ps(1) line 76 (press h for help or q to quit)[27m[K[K       [1m-d[0m              Select all processes except session leaders.[m
+[7m Manual page ps(1) line 77 (press h for help or q to quit)[27m[K[K[m
+[7m Manual page ps(1) line 78 (press h for help or q to quit)[27m[K[K       [1m--deselect[0m      Select all processes except those that fulfill the[m
+[7m Manual page ps(1) line 79 (press h for help or q to quit)[27m[K[K                       specified conditions (negates the selection). Identical to[m
+[7m Manual page ps(1) line 80 (press h for help or q to quit)[27m[K[K                       [1m-N[0m.[m
+[7m Manual page ps(1) line 81 (press h for help or q to quit)[27m[K[K[m
+[7m Manual page ps(1) line 82 (press h for help or q to quit)[27m[K[K       [1m-e[0m              Select all processes. Identical to [1m-A[0m.[m
+[7m Manual page ps(1) line 83 (press h for help or q to quit)[27m[K[K[m
+[7m Manual page ps(1) line 84 (press h for help or q to quit)[27m[K[K       [1mg[0m               Really all, even session leaders. This flag is obsolete and[m
+[7m Manual page ps(1) line 85 (press h for help or q to quit)[27m[K[K                       may be discontinued in a future release. It is normally[m
+[7m Manual page ps(1) line 86 (press h for help or q to quit)[27m[K[K                       implied by the [1ma[0m flag, and is only useful when operating in[m
+[7m Manual page ps(1) line 87 (press h for help or q to quit)[27m[K[K                       the sunos4 personality.[m
+[7m Manual page ps(1) line 88 (press h for help or q to quit)[27m[K[K[m
+[7m Manual page ps(1) line 89 (press h for help or q to quit)[27m[K[K       [1m-N[0m              Select all processes except those that fulfill the[m
+[7m Manual page ps(1) line 90 (press h for help or q to quit)[27m[K[K                       specified conditions (negates the selection). Identical to[m
+[7m Manual page ps(1) line 91 (press h for help or q to quit)[27m[K[K                       [1m--deselect[0m.[m
+[7m Manual page ps(1) line 92 (press h for help or q to quit)[27m[K[K[m
+[7m Manual page ps(1) line 93 (press h for help or q to quit)[27m[K[K       [1mT[0m               Select all processes associated with this terminal.[m
+[7m Manual page ps(1) line 94 (press h for help or q to quit)[27m[K[K                       Identical to the [1mt[0m option without any argument.[m
+[7m Manual page ps(1) line 95 (press h for help or q to quit)[27m[K[K[m
+[7m Manual page ps(1) line 96 (press h for help or q to quit)[27m[K[K       [1mr[0m               Restrict the selection to only running processes.[m
+[7m Manual page ps(1) line 97 (press h for help or q to quit)[27m[K[K[m
+[7m Manual page ps(1) line 98 (press h for help or q to quit)[27m[K[K       [1mx[0m               Lift the BSD-style "must have a tty" restriction, which is[m
+[7m Manual page ps(1) line 99 (press h for help or q to quit)[27m[K[K                       imposed upon the set of all processes when some BSD-style[m
+[7m Manual page ps(1) line 100 (press h for help or q to quit)[27m[K[K                       (without "-") options are used or when the [1mps[0m personality[m
+[7m Manual page ps(1) line 101 (press h for help or q to quit)[27m[K[K                       setting is BSD-like. The set of processes selected in this[m
+[7m Manual page ps(1) line 102 (press h for help or q to quit)[27m[K[K                       manner is in addition to the set of processes selected by[m
+[7m Manual page ps(1) line 103 (press h for help or q to quit)[27m[K[K                       other means. An alternate description is that this option[m
+[7m Manual page ps(1) line 105 (press h for help or q to quit)[27m[K[K                       causes [1mps[0m to list all processes owned by you (same EUID as[m
+[7m Manual page ps(1) line 106 (press h for help or q to quit)[27m[K[K                       [1mps[0m), or to list all processes when used together with the [1ma[0m[m
+[7m Manual page ps(1) line 108 (press h for help or q to quit)[27m[K[K                       option.[m
+[7m Manual page ps(1) line 109 (press h for help or q to quit)[27m[K[K[m
+[7m Manual page ps(1) line 110 (press h for help or q to quit)[27m[K[K[1mPROCESS[0m [1mSELECTION[0m [1mBY[0m [1mLIST[0m[m
+[7m Manual page ps(1) line 112 (press h for help or q to quit)[27m[K[K       These options accept a single argument in the form of a blank-separated or[m
+[7m Manual page ps(1) line 113 (press h for help or q to quit)[27m[K[K       comma-separated list. They can be used multiple times.[m
+[7m Manual page ps(1) line 115 (press h for help or q to quit)[27m[K[K       For example: [1mps[0m [1m-p[0m [1m"1[0m [1m2"[0m [1m-p[0m [1m3,4[0m[m
+[7m Manual page ps(1) line 116 (press h for help or q to quit)[27m[K[K[m
+[7m Manual page ps(1) line 117 (press h for help or q to quit)[27m[K[K       [1m-[0m[4m123[24m            Identical to [1m--sid[0m [4m123[24m.[m
+[7m Manual page ps(1) line 118 (press h for help or q to quit)[27m[K[K[m
+[7m Manual page ps(1) line 121 (press h for help or q to quit)[27m[K[K       [4m123[24m             Identical to [1m--pid[0m [4m123[24m.[m
+[7m Manual page ps(1) line 122 (press h for help or q to quit)[27m[K[K[m
+[7m Manual page ps(1) line 125 (press h for help or q to quit)[27m[K[K       [1m-C[0m [4mcmdlist[24m      Select by command name.[m
+[7m Manual page ps(1) line 126 (press h for help or q to quit)[27m[K[K                       This selects the processes whose executable name is given[m
+[7m Manual page ps(1) line 127 (press h for help or q to quit)[27m[K[K                       in [4mcmdlist[24m.[m
+[7m Manual page ps(1) line 128 (press h for help or q to quit)[27m[K[K[m
+[7m Manual page ps(1) line 129 (press h for help or q to quit)[27m[K[K       [1m-G[0m [4mgrplist[24m      Select by real group ID (RGID) or name.[m
+[7m Manual page ps(1) line 131 (press h for help or q to quit)[27m[K[K                       This selects the processes whose real group name or ID is[m
+[7m Manual page ps(1) line 132 (press h for help or q to quit)[27m[K[K                       in the [4mgrplist[24m list. The real group ID identifies the group[m
+[7m Manual page ps(1) line 133 (press h for help or q to quit)[27m[K[K                       of the user who created the process, see [4mgetgid[24m(2).[m
+[7m Manual page ps(1) line 134 (press h for help or q to quit)[27m[K[K[m
+[7m Manual page ps(1) line 136 (press h for help or q to quit)[27m[K[K       [1m-g[0m [4mgrplist[24m      Select by session OR by effective group name.[m
+[7m Manual page ps(1) line 137 (press h for help or q to quit)[27m[K[K                       Selection by session is specified by many standards, but[m
+[7m Manual page ps(1) line 138 (press h for help or q to quit)[27m[K[K                       selection by effective group is the logical behavior that[m
+[7m Manual page ps(1) line 140 (press h for help or q to quit)[27m[K[K                       several other operating systems use. This [1mps[0m will select by[m
+[7m Manual page ps(1) line 141 (press h for help or q to quit)[27m[K[K                       session when the list is completely numeric[m
+[7m Manual page ps(1) line 143 (press h for help or q to quit)[27m[K[K                       (as sessions are). Group ID numbers will work only when[m
+[7m Manual page ps(1) line 144 (press h for help or q to quit)[27m[K[K                       some group names are also specified. See the [1m-s[0m and [1m--group[0m[m
+[7m Manual page ps(1) line 145 (press h for help or q to quit)[27m[K[K                       options.[m
+[7m Manual page ps(1) line 146 (press h for help or q to quit)[27m[K[K[m
+[7m Manual page ps(1) line 147 (press h for help or q to quit)[27m[K[K       [1m--Group[0m [4mgrplist[24m Select by real group ID (RGID) or name. Identical to [1m-G[0m.[m
+[7m Manual page ps(1) line 148 (press h for help or q to quit)[27m[K[K[m
+[7m Manual page ps(1) line 149 (press h for help or q to quit)[27m[K[K       [1m--group[0m [4mgrplist[24m Select by effective group ID (EGID) or name.[m
+[7m Manual page ps(1) line 150 (press h for help or q to quit)[27m[K[K                       This selects the processes whose effective group name or ID[m
+[7m Manual page ps(1) line 151 (press h for help or q to quit)[27m[K[K                       is in [4mgrouplist[24m. The effective group ID describes the group[m
+[7m Manual page ps(1) line 152 (press h for help or q to quit)[27m[K[K                       whose file access permissions are used by the process[m
+[7m Manual page ps(1) line 154 (press h for help or q to quit)[27m[K[K                       (see [4mgetegid[24m(2)). The [1m-g[0m option is often an alternative[m
+[7m Manual page ps(1) line 155 (press h for help or q to quit)[27m[K[K                       to [1m--group[0m.[m
+[7m Manual page ps(1) line 156 (press h for help or q to quit)[27m[K[K[m
+[7m Manual page ps(1) line 157 (press h for help or q to quit)[27m[K[K       [1mp[0m [4mpidlist[24m       Select by process ID. Identical to [1m-p[0m and [1m--pid[0m.[m
+[7m Manual page ps(1) line 158 (press h for help or q to quit)[27m[K[K[m
+[7m Manual page ps(1) line 159 (press h for help or q to quit)[27m[K[K       [1m-p[0m [4mpidlist[24m      Select by PID.[m
+[7m Manual page ps(1) line 160 (press h for help or q to quit)[27m[K[K                       This selects the processes whose process ID numbers appear[m
+[7m Manual page ps(1) line 162 (press h for help or q to quit)[27m[K[K                       in [4mpidlist[24m. Identical to [1mp[0m and [1m--pid[0m.[m
+[7m Manual page ps(1) line 163 (press h for help or q to quit)[27m[K[K[m
+[7m Manual page ps(1) line 165 (press h for help or q to quit)[27m[K[K       [1m--pid[0m [4mpidlist[24m   Select by process ID. Identical to [1m-p[0m and [1mp[0m.[m
+[7m Manual page ps(1) line 166 (press h for help or q to quit)[27m[K[K[m
+[7m Manual page ps(1) line 167 (press h for help or q to quit)[27m[K[K       [1m--ppid[0m [4mpidlist[24m  Select by parent process ID. This selects the processes[m
+[7m Manual page ps(1) line 168 (press h for help or q to quit)[27m[K[K                       with a parent process ID in [4mpidlist[24m. That is, it selects[m
+[7m Manual page ps(1) line 170 (press h for help or q to quit)[27m[K[K                       processes that are children of those listed in [4mpidlist[24m.[m
+[7m Manual page ps(1) line 171 (press h for help or q to quit)[27m[K[K[m
+[7m Manual page ps(1) line 172 (press h for help or q to quit)[27m[K[K       [1m-s[0m [4msesslist[24m     Select by session ID.[m
+[7m Manual page ps(1) line 173 (press h for help or q to quit)[27m[K[K                       This selects the processes with a session ID specified[m
+[7m Manual page ps(1) line 174 (press h for help or q to quit)[27m[K[K                       in [4msesslist[24m.[m
+[7m Manual page ps(1) line 176 (press h for help or q to quit)[27m[K[K[m
+[7m Manual page ps(1) line 177 (press h for help or q to quit)[27m[K[K       [1m--sid[0m [4msesslist[24m  Select by session ID. Identical to [1m-s[0m.[m
+[7m Manual page ps(1) line 178 (press h for help or q to quit)[27m[K[K[m
+[7m Manual page ps(1) line 179 (press h for help or q to quit)[27m[K[K       [1mt[0m [4mttylist[24m       Select by tty. Nearly identical to [1m-t[0m and [1m--tty[0m, but can[m
+[7m Manual page ps(1) line 180 (press h for help or q to quit)[27m[K[K                       also be used with an empty [4mttylist[24m to indicate the terminal[m
+[7m Manual page ps(1) line 181 (press h for help or q to quit)[27m[K[K                       associated with [1mps[0m. Using the [1mT[0m option is considered[m
+[7m Manual page ps(1) line 182 (press h for help or q to quit)[27m[K[K                       cleaner than using [1mt[0m with an empty [4mttylist[24m.[m
+[7m Manual page ps(1) line 183 (press h for help or q to quit)[27m[K[K[m
+[7m Manual page ps(1) line 184 (press h for help or q to quit)[27m[K[K       [1m-t[0m [4mttylist[24m      Select by tty.[m
+[7m Manual page ps(1) line 186 (press h for help or q to quit)[27m[K[K[HM[m
+[34;1H[K[7m Manual page ps(1) line 185 (press h for help or q to quit)[27m[K[K[HM                       options.[m
+[34;1H[K[7m Manual page ps(1) line 183 (press h for help or q to quit)[27m[K[K[HM                       some group names are also specified. See the [1m-s[0m and [1m--group[0m[m
+[34;1H[K[7m Manual page ps(1) line 182 (press h for help or q to quit)[27m[K[K[HM                       (as sessions are). Group ID numbers will work only when[m
+[34;1H[K[7m Manual page ps(1) line 181 (press h for help or q to quit)[27m[K[K[HM                       session when the list is completely numeric[m
+[34;1H[K[7m Manual page ps(1) line 180 (press h for help or q to quit)[27m[K[K[HM                       several other operating systems use. This [1mps[0m will select by[m
+[34;1H[K[7m Manual page ps(1) line 179 (press h for help or q to quit)[27m[K[K[HM                       selection by effective group is the logical behavior that[m
+[34;1H[K[7m Manual page ps(1) line 178 (press h for help or q to quit)[27m[K[K[HM                       Selection by session is specified by many standards, but[m
+[34;1H[K[7m Manual page ps(1) line 177 (press h for help or q to quit)[27m[K[K[HM       [1m-g[0m [4mgrplist[24m      Select by session OR by effective group name.[m
+[34;1H[K[7m Manual page ps(1) line 176 (press h for help or q to quit)[27m[K[K[HM[m
+[34;1H[K[7m Manual page ps(1) line 175 (press h for help or q to quit)[27m[K[K[HM                       of the user who created the process, see [4mgetgid[24m(2).[m
+[34;1H[K[7m Manual page ps(1) line 173 (press h for help or q to quit)[27m[K[K[HM                       in the [4mgrplist[24m list. The real group ID identifies the group[m
+[34;1H[K[7m Manual page ps(1) line 172 (press h for help or q to quit)[27m[K[K[HM                       This selects the processes whose real group name or ID is[m
+[34;1H[K[7m Manual page ps(1) line 171 (press h for help or q to quit)[27m[K[K[HM       [1m-G[0m [4mgrplist[24m      Select by real group ID (RGID) or name.[m
+[34;1H[K[7m Manual page ps(1) line 170 (press h for help or q to quit)[27m[K[K[HM[m
+[34;1H[K[7m Manual page ps(1) line 169 (press h for help or q to quit)[27m[K[K[HM                       in [4mcmdlist[24m.[m
+[34;1H[K[7m Manual page ps(1) line 167 (press h for help or q to quit)[27m[K[K[HM                       This selects the processes whose executable name is given[m
+[34;1H[K[7m Manual page ps(1) line 166 (press h for help or q to quit)[27m[K[K[HM       [1m-C[0m [4mcmdlist[24m      Select by command name.[m
+[34;1H[K[7m Manual page ps(1) line 165 (press h for help or q to quit)[27m[K[K[HM[m
+[34;1H[K[7m Manual page ps(1) line 164 (press h for help or q to quit)[27m[K[K[HM       [4m123[24m             Identical to [1m--pid[0m [4m123[24m.[m
+[34;1H[K[7m Manual page ps(1) line 162 (press h for help or q to quit)[27m[K[K[HM[m
+[34;1H[K[7m Manual page ps(1) line 161 (press h for help or q to quit)[27m[K[K[HM       [1m-[0m[4m123[24m            Identical to [1m--sid[0m [4m123[24m.[m
+[34;1H[K[7m Manual page ps(1) line 159 (press h for help or q to quit)[27m[K[K[HM[m
+[34;1H[K[7m Manual page ps(1) line 158 (press h for help or q to quit)[27m[K[K[HM       For example: [1mps[0m [1m-p[0m [1m"1[0m [1m2"[0m [1m-p[0m [1m3,4[0m[m
+[34;1H[K[7m Manual page ps(1) line 157 (press h for help or q to quit)[27m[K[K[HM       comma-separated list. They can be used multiple times.[m
+[34;1H[K[7m Manual page ps(1) line 156 (press h for help or q to quit)[27m[K[K[HM       These options accept a single argument in the form of a blank-separated or[m
+[34;1H[K[7m Manual page ps(1) line 155 (press h for help or q to quit)[27m[K[K[HM[1mPROCESS[0m [1mSELECTION[0m [1mBY[0m [1mLIST[0m[m
+[34;1H[K[7m Manual page ps(1) line 154 (press h for help or q to quit)[27m[K[K[HM[m
+[34;1H[K[7m Manual page ps(1) line 153 (press h for help or q to quit)[27m[K[K[HM                       option.[m
+[34;1H[K[7m Manual page ps(1) line 151 (press h for help or q to quit)[27m[K[K[HM                       [1mps[0m), or to list all processes when used together with the [1ma[0m[m
+[34;1H[K[7m Manual page ps(1) line 150 (press h for help or q to quit)[27m[K[K[HM                       causes [1mps[0m to list all processes owned by you (same EUID as[m
+[34;1H[K[7m Manual page ps(1) line 149 (press h for help or q to quit)[27m[K[K[HM                       other means. An alternate description is that this option[m
+[34;1H[K[7m Manual page ps(1) line 148 (press h for help or q to quit)[27m[K[K[?1l>[?1049l]0;linux@ubuntu: ~/Desktop/workspacelinux@ubuntu:~/Desktop/workspace$ ps 1
+  PID TTY      STAT   TIME COMMAND
+    1 ?        Ss     0:01 /sbin/init
+]0;linux@ubuntu: ~/Desktop/workspacelinux@ubuntu:~/Desktop/workspace$ ps 0
+ERROR: Process ID out of range.
+********* simple selection *********  ********* selection by list *********
+-A all processes                      -C by command name
+-N negate selection                   -G by real group ID (supports names)
+-a all w/ tty except session leaders  -U by real user ID (supports names)
+-d all except session leaders         -g by session OR by effective group name
+-e all processes                      -p by process ID
+T  all processes on this terminal     -s processes in the sessions given
+a  all w/ tty, including other users  -t by tty
+g  OBSOLETE -- DO NOT USE             -u by effective user ID (supports names)
+r  only running processes             U  processes for specified users
+x  processes w/o controlling ttys     t  by tty
+*********** output format **********  *********** long options ***********
+-o,o user-defined  -f full            --Group --User --pid --cols --ppid
+-j,j job control   s  signal          --group --user --sid --rows --info
+-O,O preloaded -o  v  virtual memory  --cumulative --format --deselect
+-l,l long          u  user-oriented   --sort --tty --forest --version
+-F   extra full    X  registers       --heading --no-heading --context
+                    ********* misc options *********
+-V,V  show version      L  list format codes  f  ASCII art forest
+-m,m,-L,-T,H  threads   S  children in sum    -y change -l format
+-M,Z  security data     c  true command name  -c scheduling class
+-w,w  wide output       n  numeric WCHAN,UID  -H process hierarchy
+]0;linux@ubuntu: ~/Desktop/workspacelinux@ubuntu:~/Desktop/workspace$ ps 2
+  PID TTY      STAT   TIME COMMAND
+    2 ?        S      0:00 [kthreadd]
+]0;linux@ubuntu: ~/Desktop/workspacelinux@ubuntu:~/Desktop/workspace$ ps 3
+  PID TTY      STAT   TIME COMMAND
+    3 ?        S      0:00 [ksoftirqd/0]
+]0;linux@ubuntu: ~/Desktop/workspacelinux@ubuntu:~/Desktop/workspace$ ps s
+  UID   PID   PENDING   BLOCKED   IGNORED    CAUGHT STAT TTY        TIME COMMAND
+ 1000  2895  00000000  00010000  00384004  4b813efb Ss   pts/1      0:01 bash
+ 1000 15771  00000000  00010000  00384004  4b813efb S    pts/1      0:00 bash
+ 1000 15827  00000000  00000000  00000000  08010000 S+   pts/1      0:00 script
+ 1000 15828  00000000  00000000  00000000  00010000 S+   pts/1      0:00 script
+ 1000 15829  00000000  00010000  00384004  4b813efb Ss   pts/0      0:00 bash -i
+ 1000 16033  00000000  00000000  00000000  73d3fef9 R+   pts/0      0:00 ps s
+]0;linux@ubuntu: ~/Desktop/workspacelinux@ubuntu:~/Desktop/workspace$ ps c
+  PID TTY      STAT   TIME COMMAND
+ 2895 pts/1    Ss     0:01 bash
+15771 pts/1    S      0:00 bash
+15827 pts/1    S+     0:00 script
+15828 pts/1    S+     0:00 script
+15829 pts/0    Ss     0:00 bash
+16034 pts/0    R+     0:00 ps
+]0;linux@ubuntu: ~/Desktop/workspacelinux@ubuntu:~/Desktop/workspace$ ps L
+%cpu         %CPU    
+%mem         %MEM    
+_left        LLLLLLLL
+_left2       L2L2L2L2
+_right       RRRRRRRR
+_right2      R2R2R2R2
+_unlimited   U       
+_unlimited2  U2      
+alarm        ALARM   
+args         COMMAND 
+atime        TIME    
+blocked      BLOCKED 
+bsdstart     START   
+bsdtime      TIME    
+c            C       
+caught       CAUGHT  
+cgroup       CGROUP  
+class        CLS     
+cls          CLS     
+cmd          CMD     
+comm         COMMAND 
+command      COMMAND 
+context      CONTEXT 
+cp           CP      
+cpuid        CPUID   
+cputime      TIME    
+drs          DRS     
+dsiz         DSIZ    
+egid         EGID    
+egroup       EGROUP  
+eip          EIP     
+esp          ESP     
+etime        ELAPSED 
+euid         EUID    
+euser        EUSER   
+f            F       
+fgid         FGID    
+fgroup       FGROUP  
+flag         F       
+flags        F       
+fname        COMMAND 
+fsgid        FSGID   
+fsgroup      FSGROUP 
+fsuid        FSUID   
+fsuser       FSUSER  
+fuid         FUID    
+fuser        FUSER   
+gid          GID     
+group        GROUP   
+ignored      IGNORED 
+intpri       PRI     
+label        LABEL   
+lastcpu      C       
+lim          LIM     
+longtname    TTY     
+lstart       STARTED 
+lwp          LWP     
+m_drs        DRS     
+m_size       SIZE    
+m_trs        TRS     
+maj_flt      MAJFL   
+majflt       MAJFLT  
+min_flt      MINFL   
+minflt       MINFLT  
+ni           NI      
+nice         NI      
+nlwp         NLWP    
+nwchan       WCHAN   
+opri         PRI     
+pagein       PAGEIN  
+pcpu         %CPU    
+pending      PENDING 
+pgid         PGID    
+pgrp         PGRP    
+pid          PID     
+pmem         %MEM    
+policy       POL     
+ppid         PPID    
+pri          PRI     
+pri_api      API     
+pri_bar      BAR     
+pri_baz      BAZ     
+pri_foo      FOO     
+priority     PRI     
+psr          PSR     
+rgid         RGID    
+rgroup       RGROUP  
+rss          RSS     
+rssize       RSS     
+rsz          RSZ     
+rtprio       RTPRIO  
+ruid         RUID    
+ruser        RUSER   
+s            S       
+sched        SCH     
+sess         SESS    
+session      SESS    
+sgi_p        P       
+sgi_rss      RSS     
+sgid         SGID    
+sgroup       SGROUP  
+sid          SID     
+sig          PENDING 
+sig_block    BLOCKED 
+sig_catch    CATCHED 
+sig_ignore   IGNORED 
+sig_pend     SIGNAL  
+sigcatch     CAUGHT  
+sigignore    IGNORED 
+sigmask      BLOCKED 
+size         SIZE    
+spid         SPID    
+stackp       STACKP  
+start        STARTED 
+start_stack  STACKP  
+start_time   START   
+stat         STAT    
+state        S       
+stime        STIME   
+suid         SUID    
+supgid       SUPGID  
+supgrp       SUPGRP  
+suser        SUSER   
+svgid        SVGID   
+svgroup      SVGROUP 
+svuid        SVUID   
+svuser       SVUSER  
+sz           SZ      
+thcount      THCNT   
+tid          TID     
+time         TIME    
+tname        TTY     
+tpgid        TPGID   
+trs          TRS     
+trss         TRSS    
+tsig         PENDING 
+tsiz         TSIZ    
+tt           TT      
+tty          TT      
+tty4         TTY     
+tty8         TTY     
+ucmd         CMD     
+ucomm        COMMAND 
+uid          UID     
+uid_hack     UID     
+uname        USER    
+user         USER    
+util         C       
+vsize        VSZ     
+vsz          VSZ     
+wchan        WCHAN   
+wname        WCHAN   
+zone         ZONE    
+]0;linux@ubuntu: ~/Desktop/workspacelinux@ubuntu:~/Desktop/workspace$ [H[2J]0;linux@ubuntu: ~/Desktop/workspacelinux@ubuntu:~/Desktop/workspace$ chmod 777f [K[K file1
+]0;linux@ubuntu: ~/Desktop/workspacelinux@ubuntu:~/Desktop/workspace$ ls -l file1
+-rwxrwxrwx 1 linux linux 8 Mar  8 01:09 [0m[01;32mfile1[0m
+]0;linux@ubuntu: ~/Desktop/workspacelinux@ubuntu:~/Desktop/workspace$ vim file1
+[?1049h[?1h=[1;34r[?12;25h[?12l[?25h[27m[m[H[2J[?25l[33;1H"file1" 1L, 8C[>c[1;1H[1m file1 [m[7m                                                                              [m[2;1H[33m  1 [miiiiii:
+[34m~                                                                                    [4;1H~                                                                                    [5;1H~                                                                                    [6;1H~                                                                                    [7;1H~                                                                                    [8;1H~                                                                                    [9;1H~                                                                                    [10;1H~                                                                                    [11;1H~                                                                                    [12;1H~                                                                                    [13;1H~                                                                                    [14;1H~                                                                                    [15;1H~                                                                                    [16;1H~                                                                                    [17;1H~                                                                                    [18;1H~                                                                                    [19;1H~                                                                                    [20;1H~                                                                                    [21;1H~                                                                                    [22;1H~                                                                                    [23;1H~                                                                                    [24;1H~                                                                                    [25;1H~                                                                                    [26;1H~                                                                                    [27;1H~                                                                                    [28;1H~                                                                                    [29;1H~                                                                                    [30;1H~                                                                                    [31;1H~                                                                                    [m[32;1H[1m[7m ~/Desktop/workspace/file1   CWD: /home/linux/Desktop/workspace   Line: 1            [2;11H[?12l[?25hP+q436f\P+q6b75\P+q6b64\P+q6b72\P+q6b6c\P+q2332\P+q2334\P+q2569\P+q2a37\P+q6b31\[?25l[m[34;1H[33m-- INSERT --[2;12H[?12l[?25h[m[1;2H[1m+i lfile1 [?25l[m[2;11H:f[32;27H[1m[7m[+]   CWD: /home/linux/Desktop/workspace   Line: 1[2;13H[?12l[?25h[?25l[mfj[?12l[?25h[?25ljs[?12l[?25h[?25lsi[?12l[?25h[?25lia[?12l[?25h[?25las[?12l[?25h[?25lsj[?12l[?25h[?25ljf[?12l[?25h[34;1H[K[2;19H[?25l[33;1H[K[2;19H[?12l[?25h[?25l[33;1H:[?12l[?25hw[?25l[?12l[?25hq[?25l[?12l[?25h[?25l"file1" 1L, 16C written
+
+[?1l>[?12l[?25h[?1049l]0;linux@ubuntu: ~/Desktop/workspacelinux@ubuntu:~/Desktop/workspace$ vim file1[2@ls -l[C[C[C[C[C[C
+-rwxrwxrwx 1 linux linux 16 Mar  8 17:16 [0m[01;32mfile1[0m
+]0;linux@ubuntu: ~/Desktop/workspacelinux@ubuntu:~/Desktop/workspace$ ./file1
+./file1: line 1: iiiiii:fjsiasjf: command not found
+]0;linux@ubuntu: ~/Desktop/workspacelinux@ubuntu:~/Desktop/workspace$ h[Kchmod u+[K-w file1
+]0;linux@ubuntu: ~/Desktop/workspacelinux@ubuntu:~/Desktop/workspace$ ls -l file1
+-r-xrwxrwx 1 linux linux 16 Mar  8 17:16 [0m[01;32mfile1[0m
+]0;linux@ubuntu: ~/Desktop/workspacelinux@ubuntu:~/Desktop/workspace$ sudo vim file1
+[sudo] password for linux: 
+[?1049h[?1h=[1;34r[?12;25h[?12l[?25h[27m[m[H[2J[?25l[33;1H"file1" 1L, 16C[>c[1;1H[1m file1 [m[7m                                                                              [m[2;1H[33m  1 [miiiiii:fjsiasjf
+[34m~                                                                                    [4;1H~                                                                                    [5;1H~                                                                                    [6;1H~                                                                                    [7;1H~                                                                                    [8;1H~                                                                                    [9;1H~                                                                                    [10;1H~                                                                                    [11;1H~                                                                                    [12;1H~                                                                                    [13;1H~                                                                                    [14;1H~                                                                                    [15;1H~                                                                                    [16;1H~                                                                                    [17;1H~                                                                                    [18;1H~                                                                                    [19;1H~                                                                                    [20;1H~                                                                                    [21;1H~                                                                                    [22;1H~                                                                                    [23;1H~                                                                                    [24;1H~                                                                                    [25;1H~                                                                                    [26;1H~                                                                                    [27;1H~                                                                                    [28;1H~                                                                                    [29;1H~                                                                                    [30;1H~                                                                                    [31;1H~                                                                                    [m[32;1H[1m[7m ~/Desktop/workspace/file1   CWD: /home/linux/Desktop/workspace   Line: 1            [2;19H[?12l[?25hP+q436f\P+q6b75\P+q6b64\P+q6b72\P+q6b6c\P+q2332\P+q2334\P+q2569\P+q2a37\P+q6b31\[?25l[m[34;1H[33m-- INSERT --[2;19H[?12l[?25h[m[1;2H[1m+i lfile1 [?25l[m[2;18Hjdf[32;27H[1m[7m[+]   CWD: /home/linux/Desktop/workspace   Line: 1[2;20H[?12l[?25h[?25l[mdjf[?12l[?25h[?25lff[?12l[?25h[?25lfdf[?12l[?25h[?25ldkf[?12l[?25h[?25lksf[?12l[?25h[?25lsjf[?12l[?25h[?25lff[?12l[?25h[?25lfsf[?12l[?25h[?25lsjf[?12l[?25h[?25lff[?12l[?25h[34;1H[K[2;29H[?25l[33;1H[K[2;29H[?12l[?25h[?25l[33;1H:[?12l[?25hw[?25l[?12l[?25hq[?25l[?12l[?25h[?25l"file1" 1L, 27C written
+
+[?1l>[?12l[?25h[?1049l]0;linux@ubuntu: ~/Desktop/workspacelinux@ubuntu:~/Desktop/workspace$ cd[K[Kchmod 777 file1
+]0;linux@ubuntu: ~/Desktop/workspacelinux@ubuntu:~/Desktop/workspace$ fie[Kle
+Usage: file [-bchikLlNnprsvz0] [--apple] [--mime-encoding] [--mime-type]
+            [-e testname] [-F separator] [-f namefile] [-m magicfiles] file ...
+       file -C [-m magicfiles]
+       file [--help]
+]0;linux@ubuntu: ~/Desktop/workspacelinux@ubuntu:~/Desktop/workspace$ 
+]0;linux@ubuntu: ~/Desktop/workspacelinux@ubuntu:~/Desktop/workspace$ 
+]0;linux@ubuntu: ~/Desktop/workspacelinux@ubuntu:~/Desktop/workspace$ 
+]0;linux@ubuntu: ~/Desktop/workspacelinux@ubuntu:~/Desktop/workspace$ 
+]0;linux@ubuntu: ~/Desktop/workspacelinux@ubuntu:~/Desktop/workspace$ 
+]0;linux@ubuntu: ~/Desktop/workspacelinux@ubuntu:~/Desktop/workspace$ 
+]0;linux@ubuntu: ~/Desktop/workspacelinux@ubuntu:~/Desktop/workspace$ 
+]0;linux@ubuntu: ~/Desktop/workspacelinux@ubuntu:~/Desktop/workspace$ 
+]0;linux@ubuntu: ~/Desktop/workspacelinux@ubuntu:~/Desktop/workspace$ 
+]0;linux@ubuntu: ~/Desktop/workspacelinux@ubuntu:~/Desktop/workspace$ 
+]0;linux@ubuntu: ~/Desktop/workspacelinux@ubuntu:~/Desktop/workspace$ [H[2J]0;linux@ubuntu: ~/Desktop/workspacelinux@ubuntu:~/Desktop/workspace$ read
+jj
+]0;linux@ubuntu: ~/Desktop/workspacelinux@ubuntu:~/Desktop/workspace$ read timeofday
+kkk
+]0;linux@ubuntu: ~/Desktop/workspacelinux@ubuntu:~/Desktop/workspace$ jf[K[Kecho $$$
+15829$
+]0;linux@ubuntu: ~/Desktop/workspacelinux@ubuntu:~/Desktop/workspace$ echo $1
+
+]0;linux@ubuntu: ~/Desktop/workspacelinux@ubuntu:~/Desktop/workspace$ echo $PATH
+/usr/lib/lightdm/lightdm:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games
+]0;linux@ubuntu: ~/Desktop/workspacelinux@ubuntu:~/Desktop/workspace$ info write
+[?1h=[?1049h[H[2J[34;1HWelcome to Info version 4.13. Type h for help, m for menu item.[1;1HFile: *manpages*,  Node: write,  Up: (dir)[3;1HWRITE(1)                  BSD General Commands Manual                 WRITE(1)[5;1HNAME[6;1H     write — send a message to another user[8;1HSYNOPSIS[9;1H     write user [tty][11;1HDESCRIPTION[12;1H     The write utility allows you to communicate with other users, by copying[13;1H     lines from your terminal to theirs.[15;1H     When you run the write command, the user you are writing to gets a mes‐[16;1H     sage of the form:[18;1H           Message from yourname@yourhost on yourtty at hh:mm ...[20;1H     Any further lines you enter will be copied to the specified user's termi‐[21;1H     nal.  If the other user wants to reply, they must run write as well.[23;1H     When you are done, type an end-of-file or interrupt character.  The other[24;1H     user will see the message ‘EOF’ indicating that the conversation is over.[26;1H     You can prevent people (other than the super-user) from writing to you[27;1H     with the mesg(1) command.[29;1H     If the user you want to write to is logged in on more than one terminal,[30;1H     you can specify which terminal to write to by specifying the terminal[31;1H     name as the second operand to the write command.  Alternatively, you can[32;1H     let write select one of the terminals - it will pick the one with the[33;1H[7m-----Info: (*manpages*)write, 172 lines --Top----------------------------------------[0m[34;1HWelcome to Info version 4.13. Type h for help, m for menu item.[34;1HWelcome to Info version 4.13. Type h for help, m for menu item.[1;1H[34;1H[K[34;1HNo menu in this node.[34;1HNo menu in this node.[1;1H[34;1H[K[34;1HUnknown command (a).[34;1HUnknown command (a).[1;1H[34;1H[K[34;1HNo `Next' pointer for this node.[34;1HNo `Next' pointer for this node.[1;1H[34;1H[K[34;1H[K[?1l>[?1049l]0;linux@ubuntu: ~/Desktop/workspacelinux@ubuntu:~/Desktop/workspace$ man info --help
+[?1049h[?1h=INFO(1)                            User Commands                           INFO(1)[m
+[m
+[1mNAME[0m[m
+       info - read Info documents[m
+[m
+[1mSYNOPSIS[0m[m
+       [1minfo[0m [[4mOPTION[24m]... [[4mMENU-ITEM[24m...][m
+[m
+[1mDESCRIPTION[0m[m
+       Read documentation in Info format.[m
+[m
+[1mOPTIONS[0m[m
+       [1m-k[0m, [1m--apropos[0m=[4mSTRING[24m[m
+              look up STRING in all indices of all manuals.[m
+[m
+       [1m-d[0m, [1m--directory[0m=[4mDIR[24m[m
+              add DIR to INFOPATH.[m
+[m
+       [1m--dribble[0m=[4mFILENAME[24m[m
+              remember user keystrokes in FILENAME.[m
+[m
+       [1m-f[0m, [1m--file[0m=[4mFILENAME[24m[m
+              specify Info file to visit.[m
+[m
+       [1m-h[0m, [1m--help[0m[m
+              display this help and exit.[m
+[m
+       [1m--index-search[0m=[4mSTRING[24m[m
+              go to node pointed by index entry STRING.[m
+[m
+       [1m-n[0m, [1m--node[0m=[4mNODENAME[24m[m
+              specify nodes in first visited Info file.[m
+[m
+[7m Manual page info(1) line 1 (press h for help or q to quit)[27m[K[Kmark: [K[7m Manual page info(1) line 1 (press h for help or q to quit)[27m[K[K/[K[K[7mNo previous regular expression  (press RETURN)[27m[34;1H[K[K[?1l>[?1049lNo manual entry for --help
+]0;linux@ubuntu: ~/Desktop/workspacelinux@ubuntu:~/Desktop/workspace$ man info
+[?1049h[?1h=INFO(1)                            User Commands                           INFO(1)[m
+[m
+[1mNAME[0m[m
+       info - read Info documents[m
+[m
+[1mSYNOPSIS[0m[m
+       [1minfo[0m [[4mOPTION[24m]... [[4mMENU-ITEM[24m...][m
+[m
+[1mDESCRIPTION[0m[m
+       Read documentation in Info format.[m
+[m
+[1mOPTIONS[0m[m
+       [1m-k[0m, [1m--apropos[0m=[4mSTRING[24m[m
+              look up STRING in all indices of all manuals.[m
+[m
+       [1m-d[0m, [1m--directory[0m=[4mDIR[24m[m
+              add DIR to INFOPATH.[m
+[m
+       [1m--dribble[0m=[4mFILENAME[24m[m
+              remember user keystrokes in FILENAME.[m
+[m
+       [1m-f[0m, [1m--file[0m=[4mFILENAME[24m[m
+              specify Info file to visit.[m
+[m
+       [1m-h[0m, [1m--help[0m[m
+              display this help and exit.[m
+[m
+       [1m--index-search[0m=[4mSTRING[24m[m
+              go to node pointed by index entry STRING.[m
+[m
+       [1m-n[0m, [1m--node[0m=[4mNODENAME[24m[m
+              specify nodes in first visited Info file.[m
+[m
+[7m Manual page info(1) line 1 (press h for help or q to quit)[27m[K[K[?1l>[?1049l]0;linux@ubuntu: ~/Desktop/workspacelinux@ubuntu:~/Desktop/workspace$ info  man
+[?1h=[?1049h[H[2J[34;1HWelcome to Info version 4.13. Type h for help, m for menu item.[1;1HFile: *manpages*,  Node: man,  Up: (dir)[3;1HMAN(1)                        Manual pager utils                        MAN(1)[7;1HNAME[8;1H       man - an interface to the on-line reference manuals[10;1HSYNOPSIS[11;1H       man  [-C  file]  [-d]  [-D]  [--warnings[=warnings]]  [-R encoding] [-L[12;1H       locale] [-m system[,...]] [-M path] [-S list]  [-e  extension]  [-i|-I][13;1H       [--regex|--wildcard]   [--names-only]  [-a]  [-u]  [--no-subpages]  [-P[14;1H       pager] [-r prompt] [-7] [-E encoding] [--no-hyphenation] [--no-justifi‐[15;1H       cation]  [-p  string]  [-t]  [-T[device]]  [-H[browser]] [-X[dpi]] [-Z][16;1H       [[section] page ...] ...[17;1H       man -k [apropos options] regexp ...[18;1H       man -K [-w|-W] [-S list] [-i|-I] [--regex] [section] term ...[19;1H       man -f [whatis options] page ...[20;1H       man -l [-C file] [-d] [-D] [--warnings[=warnings]]  [-R  encoding]  [-L[21;1H       locale]  [-P  pager]  [-r  prompt]  [-7] [-E encoding] [-p string] [-t][22;1H       [-T[device]] [-H[browser]] [-X[dpi]] [-Z] file ...[23;1H       man -w|-W [-C file] [-d] [-D] page ...[24;1H       man -c [-C file] [-d] [-D] page ...[25;1H       man [-hV][27;1HDESCRIPTION[28;1H       man is the system's manual pager. Each page argument given  to  man  is[29;1H       normally  the  name of a program, utility or function.  The manual page[30;1H       associated with each of these arguments is then found and displayed.  A[31;1H       section,  if  provided, will direct man to look only in that section of[32;1H       the manual.  The default action is to search in all  of  the  available[33;1H[7m-----Info: (*manpages*)man, 1020 lines --Top-----------------------------------------[0m[34;1HWelcome to Info version 4.13. Type h for help, m for menu item.[34;1HWelcome to Info version 4.13. Type h for help, m for menu item.[1;1H[34;1H[K[34;1HUnknown command (j).[34;1HUnknown command (j).[1;1H[34;1H[K[34;1HUnknown command (j).[34;1HUnknown command (j).[1;1H[34;1H[K[34;1HUnknown command (j).[34;1HUnknown command (j).[1;1H[34;1H[K[34;1HUnknown command (j).[34;1HUnknown command (j).[1;1H[34;1H[K[34;1HUnknown command (j).[34;1HUnknown command (j).[1;1H[34;1H[K[34;1HUnknown command (j).[34;1HUnknown command (j).[1;1H[34;1H[K[34;1HUnknown command (j).[34;1HUnknown command (j).[1;1H[34;1H[K[34;1HUnknown command (j).[34;1HUnknown command (j).[1;1H[34;1H[K[34;1HUnknown command (j).[34;1HUnknown command (j).[1;1H[34;1H[K[34;1HUnknown command (j).[34;1HUnknown command (j).[1;1H[34;1H[K[34;1HUnknown command (j).[34;1HUnknown command (j).[1;1H[34;1H[K[34;1HUnknown command (j).[34;1HUnknown command (j).[1;1H[34;1H[K[34;1HUnknown command (j).[34;1HUnknown command (j).[1;1H[34;1H[K[34;1HUnknown command (j).[34;1HUnknown command (j).[1;1H[34;1H[K[34;1HUnknown command (j).[34;1HUnknown command (j).[1;1H[34;1H[K[34;1HUnknown command (k).[34;1HUnknown command (k).[1;1H[34;1H[K[34;1HUnknown command (j).[34;1HUnknown command (j).[1;1H[34;1H[K[34;1HUnknown command (k).[34;1HUnknown command (k).[1;1H[34;1H[K[34;1HUnknown command (j).[34;1HUnknown command (j).[1;1H[34;1H[K[34;1HUnknown command (k).[34;1HUnknown command (k).[1;1H[34;1H[K[34;1HUnknown command (j).[34;1HUnknown command (j).[1;1H[34;1H[K[34;1HUnknown command (j).[34;1HUnknown command (j).[1;1H[34;1H[K[34;1HUnknown command (k).[34;1HUnknown command (k).[1;1H[34;1H[K[34;1HUnknown command (j).[34;1HUnknown command (j).[1;1H[34;1H[K[34;1H[K[?1l>[?1049l]0;linux@ubuntu: ~/Desktop/workspacelinux@ubuntu:~/Desktop/workspace$ --help
+--help: command not found
+]0;linux@ubuntu: ~/Desktop/workspacelinux@ubuntu:~/Desktop/workspace$ help
+GNU bash, version 4.2.24(1)-release (i686-pc-linux-gnu)
+These shell commands are defined internally.  Type `help' to see this list.
+Type `help name' to find out more about the function `name'.
+Use `info bash' to find out more about the shell in general.
+Use `man -k' or `info' to find out more about commands not in this list.
+
+A star (*) next to a name means that the command is disabled.
+
+ job_spec [&]                              history [-c] [-d offset] [n] or histor>
+ (( expression ))                          if COMMANDS; then COMMANDS; [ elif COM>
+ . filename [arguments]                    jobs [-lnprs] [jobspec ...] or jobs -x>
+ :                                         kill [-s sigspec | -n signum | -sigspe>
+ [ arg... ]                                let arg [arg ...]
+ [[ expression ]]                          local [option] name[=value] ...
+ alias [-p] [name[=value] ... ]            logout [n]
+ bg [job_spec ...]                         mapfile [-n count] [-O origin] [-s cou>
+ bind [-lpvsPVS] [-m keymap] [-f filenam>  popd [-n] [+N | -N]
+ break [n]                                 printf [-v var] format [arguments]
+ builtin [shell-builtin [arg ...]]         pushd [-n] [+N | -N | dir]
+ caller [expr]                             pwd [-LP]
+ case WORD in [PATTERN [| PATTERN]...) C>  read [-ers] [-a array] [-d delim] [-i >
+ cd [-L|[-P [-e]]] [dir]                   readarray [-n count] [-O origin] [-s c>
+ command [-pVv] command [arg ...]          readonly [-aAf] [name[=value] ...] or >
+ compgen [-abcdefgjksuv] [-o option]  [->  return [n]
+ complete [-abcdefgjksuv] [-pr] [-DE] [->  select NAME [in WORDS ... ;] do COMMAN>
+ compopt [-o|+o option] [-DE] [name ...]>  set [-abefhkmnptuvxBCHP] [-o option-na>
+ continue [n]                              shift [n]
+ coproc [NAME] command [redirections]      shopt [-pqsu] [-o] [optname ...]
+ declare [-aAfFgilrtux] [-p] [name[=valu>  source filename [arguments]
+ dirs [-clpv] [+N] [-N]                    suspend [-f]
+ disown [-h] [-ar] [jobspec ...]           test [expr]
+ echo [-neE] [arg ...]                     time [-p] pipeline
+ enable [-a] [-dnps] [-f filename] [name>  times
+ eval [arg ...]                            trap [-lp] [[arg] signal_spec ...]
+ exec [-cl] [-a name] [command [argument>  true
+ exit [n]                                  type [-afptP] name [name ...]
+ export [-fn] [name[=value] ...] or expo>  typeset [-aAfFgilrtux] [-p] name[=valu>
+ false                                     ulimit [-SHacdefilmnpqrstuvx] [limit]
+ fc [-e ename] [-lnr] [first] [last] or >  umask [-p] [-S] [mode]
+ fg [job_spec]                             unalias [-a] name [name ...]
+ for NAME [in WORDS ... ] ; do COMMANDS;>  unset [-f] [-v] [name ...]
+ for (( exp1; exp2; exp3 )); do COMMANDS>  until COMMANDS; do COMMANDS; done
+ function name { COMMANDS ; } or name ()>  variables - Names and meanings of some>
+ getopts optstring name [arg]              wait [id]
+ hash [-lr] [-p pathname] [-dt] [name ..>  while COMMANDS; do COMMANDS; done
+ help [-dms] [pattern ...]                 { COMMANDS ; }
+]0;linux@ubuntu: ~/Desktop/workspacelinux@ubuntu:~/Desktop/workspace$ jjjjjjjjjjj[K[K[K[K[K[K[K[K[K[K[Kman ls
+[?1049h[?1h=LS(1)                              User Commands                             LS(1)[m
+[m
+[1mNAME[0m[m
+       ls - list directory contents[m
+[m
+[1mSYNOPSIS[0m[m
+       [1mls[0m [[4mOPTION[24m]... [[4mFILE[24m]...[m
+[m
+[1mDESCRIPTION[0m[m
+       List  information about the FILEs (the current directory by default).  Sort[m
+       entries alphabetically if none of [1m-cftuvSUX[0m nor [1m--sort[0m is specified.[m
+[m
+       Mandatory arguments to long options are mandatory for short options too.[m
+[m
+       [1m-a[0m, [1m--all[0m[m
+              do not ignore entries starting with .[m
+[m
+       [1m-A[0m, [1m--almost-all[0m[m
+              do not list implied . and ..[m
+[m
+       [1m--author[0m[m
+              with [1m-l[0m, print the author of each file[m
+[m
+       [1m-b[0m, [1m--escape[0m[m
+              print C-style escapes for nongraphic characters[m
+[m
+       [1m--block-size[0m=[4mSIZE[24m[m
+              scale sizes by SIZE before printing  them.   E.g.,  `--block-size=M'[m
+              prints sizes in units of 1,048,576 bytes.  See SIZE format below.[m
+[m
+       [1m-B[0m, [1m--ignore-backups[0m[m
+              do not list implied entries ending with ~[m
+[m
+[7m Manual page ls(1) line 1 (press h for help or q to quit)[27m[K[K[?1l>[?1049l]0;linux@ubuntu: ~/Desktop/workspacelinux@ubuntu:~/Desktop/workspace$ info ls
+[?1h=[?1049h[H[2J[34;1HWelcome to Info version 4.13. Type h for help, m for menu item.[1;1HFile: coreutils.info,  Node: ls invocation,  Next: dir invocation,  Up: Directory li\[2;1Hsting[4;1H10.1 `ls': List directory contents[5;1H==================================[7;1HThe `ls' program lists information about files (of any type, including[8;1Hdirectories).  Options and file arguments can be intermixed[9;1Harbitrarily, as usual.[11;1H   For non-option command-line arguments that are directories, by[12;1Hdefault `ls' lists the contents of directories, not recursively, and[13;1Homitting files with names beginning with `.'.  For other non-option[14;1Harguments, by default `ls' lists just the file name.  If no non-option[15;1Hargument is specified, `ls' operates on the current directory, acting[16;1Has if it had been invoked with a single argument of `.'.[18;1H   By default, the output is sorted alphabetically, according to the[19;1Hlocale settings in effect.(1) If standard output is a terminal, the[20;1Houtput is in columns (sorted vertically) and control characters are[21;1Houtput as question marks; otherwise, the output is listed one per line[22;1Hand control characters are output as-is.[24;1H   Because `ls' is such a fundamental program, it has accumulated many[25;1Hoptions over the years.  They are described in the subsections below;[26;1Hwithin each section, options are listed alphabetically (ignoring case).[27;1HThe division of options into the subsections is not absolute, since some[28;1Hoptions affect more than one aspect of `ls''s operation.[30;1H   Exit status:[32;1H     0 success[33;1H[7m--zz-Info: (coreutils.info.gz)ls invocation, 58 lines --Top--------------------------[0m[34;1HWelcome to Info version 4.13. Type h for help, m for menu item.[34;1HWelcome to Info version 4.13. Type h for help, m for menu item.[1;1H[34;1H[K[34;1H[K[?1l>[?1049l]0;linux@ubuntu: ~/Desktop/workspacelinux@ubuntu:~/Desktop/workspace$ ls --help
+Usage: ls [OPTION]... [FILE]...
+List information about the FILEs (the current directory by default).
+Sort entries alphabetically if none of -cftuvSUX nor --sort is specified.
+
+Mandatory arguments to long options are mandatory for short options too.
+  -a, --all                  do not ignore entries starting with .
+  -A, --almost-all           do not list implied . and ..
+      --author               with -l, print the author of each file
+  -b, --escape               print C-style escapes for nongraphic characters
+      --block-size=SIZE      scale sizes by SIZE before printing them.  E.g.,
+                               `--block-size=M' prints sizes in units of
+                               1,048,576 bytes.  See SIZE format below.
+  -B, --ignore-backups       do not list implied entries ending with ~
+  -c                         with -lt: sort by, and show, ctime (time of last
+                               modification of file status information)
+                               with -l: show ctime and sort by name
+                               otherwise: sort by ctime, newest first
+  -C                         list entries by columns
+      --color[=WHEN]         colorize the output.  WHEN defaults to `always'
+                               or can be `never' or `auto'.  More info below
+  -d, --directory            list directory entries instead of contents,
+                               and do not dereference symbolic links
+  -D, --dired                generate output designed for Emacs' dired mode
+  -f                         do not sort, enable -aU, disable -ls --color
+  -F, --classify             append indicator (one of */=>@|) to entries
+      --file-type            likewise, except do not append `*'
+      --format=WORD          across -x, commas -m, horizontal -x, long -l,
+                               single-column -1, verbose -l, vertical -C
+      --full-time            like -l --time-style=full-iso
+  -g                         like -l, but do not list owner
+      --group-directories-first
+                             group directories before files.
+                               augment with a --sort option, but any
+                               use of --sort=none (-U) disables grouping
+  -G, --no-group             in a long listing, don't print group names
+  -h, --human-readable       with -l, print sizes in human readable format
+                               (e.g., 1K 234M 2G)
+      --si                   likewise, but use powers of 1000 not 1024
+  -H, --dereference-command-line
+                             follow symbolic links listed on the command line
+      --dereference-command-line-symlink-to-dir
+                             follow each command line symbolic link
+                             that points to a directory
+      --hide=PATTERN         do not list implied entries matching shell PATTERN
+                               (overridden by -a or -A)
+      --indicator-style=WORD  append indicator with style WORD to entry names:
+                               none (default), slash (-p),
+                               file-type (--file-type), classify (-F)
+  -i, --inode                print the index number of each file
+  -I, --ignore=PATTERN       do not list implied entries matching shell PATTERN
+  -k                         like --block-size=1K
+  -l                         use a long listing format
+  -L, --dereference          when showing file information for a symbolic
+                               link, show information for the file the link
+                               references rather than for the link itself
+  -m                         fill width with a comma separated list of entries
+  -n, --numeric-uid-gid      like -l, but list numeric user and group IDs
+  -N, --literal              print raw entry names (don't treat e.g. control
+                               characters specially)
+  -o                         like -l, but do not list group information
+  -p, --indicator-style=slash
+                             append / indicator to directories
+  -q, --hide-control-chars   print ? instead of non graphic characters
+      --show-control-chars   show non graphic characters as-is (default
+                             unless program is `ls' and output is a terminal)
+  -Q, --quote-name           enclose entry names in double quotes
+      --quoting-style=WORD   use quoting style WORD for entry names:
+                               literal, locale, shell, shell-always, c, escape
+  -r, --reverse              reverse order while sorting
+  -R, --recursive            list subdirectories recursively
+  -s, --size                 print the allocated size of each file, in blocks
+  -S                         sort by file size
+      --sort=WORD            sort by WORD instead of name: none -U,
+                             extension -X, size -S, time -t, version -v
+      --time=WORD            with -l, show time as WORD instead of modification
+                             time: atime -u, access -u, use -u, ctime -c,
+                             or status -c; use specified time as sort key
+                             if --sort=time
+      --time-style=STYLE     with -l, show times using style STYLE:
+                             full-iso, long-iso, iso, locale, +FORMAT.
+                             FORMAT is interpreted like `date'; if FORMAT is
+                             FORMAT1<newline>FORMAT2, FORMAT1 applies to
+                             non-recent files and FORMAT2 to recent files;
+                             if STYLE is prefixed with `posix-', STYLE
+                             takes effect only outside the POSIX locale
+  -t                         sort by modification time, newest first
+  -T, --tabsize=COLS         assume tab stops at each COLS instead of 8
+  -u                         with -lt: sort by, and show, access time
+                               with -l: show access time and sort by name
+                               otherwise: sort by access time
+  -U                         do not sort; list entries in directory order
+  -v                         natural sort of (version) numbers within text
+  -w, --width=COLS           assume screen width instead of current value
+  -x                         list entries by lines instead of by columns
+  -X                         sort alphabetically by entry extension
+  -Z, --context              print any SELinux security context of each file
+  -1                         list one file per line
+      --help     display this help and exit
+      --version  output version information and exit
+
+SIZE may be (or may be an integer optionally followed by) one of following:
+KB 1000, K 1024, MB 1000*1000, M 1024*1024, and so on for G, T, P, E, Z, Y.
+
+Using color to distinguish file types is disabled both by default and
+with --color=never.  With --color=auto, ls emits color codes only when
+standard output is connected to a terminal.  The LS_COLORS environment
+variable can change the settings.  Use the dircolors command to set it.
+
+Exit status:
+ 0  if OK,
+ 1  if minor problems (e.g., cannot access subdirectory),
+ 2  if serious trouble (e.g., cannot access command-line argument).
+
+Report ls bugs to bug-coreutils@gnu.org
+GNU coreutils home page: <http://www.gnu.org/software/coreutils/>
+General help using GNU software: <http://www.gnu.org/gethelp/>
+For complete documentation, run: info coreutils 'ls invocation'
+]0;linux@ubuntu: ~/Desktop/workspacelinux@ubuntu:~/Desktop/workspace$ man ls
+[?1049h[?1h=LS(1)                              User Commands                             LS(1)[m
+[m
+[1mNAME[0m[m
+       ls - list directory contents[m
+[m
+[1mSYNOPSIS[0m[m
+       [1mls[0m [[4mOPTION[24m]... [[4mFILE[24m]...[m
+[m
+[1mDESCRIPTION[0m[m
+       List  information about the FILEs (the current directory by default).  Sort[m
+       entries alphabetically if none of [1m-cftuvSUX[0m nor [1m--sort[0m is specified.[m
+[m
+       Mandatory arguments to long options are mandatory for short options too.[m
+[m
+       [1m-a[0m, [1m--all[0m[m
+              do not ignore entries starting with .[m
+[m
+       [1m-A[0m, [1m--almost-all[0m[m
+              do not list implied . and ..[m
+[m
+       [1m--author[0m[m
+              with [1m-l[0m, print the author of each file[m
+[m
+       [1m-b[0m, [1m--escape[0m[m
+              print C-style escapes for nongraphic characters[m
+[m
+       [1m--block-size[0m=[4mSIZE[24m[m
+              scale sizes by SIZE before printing  them.   E.g.,  `--block-size=M'[m
+              prints sizes in units of 1,048,576 bytes.  See SIZE format below.[m
+[m
+       [1m-B[0m, [1m--ignore-backups[0m[m
+              do not list implied entries ending with ~[m
+[m
+[7m Manual page ls(1) line 1 (press h for help or q to quit)[27m[K[K[?1l>[?1049l]0;linux@ubuntu: ~/Desktop/workspacelinux@ubuntu:~/Desktop/workspace$ lsls[K[K[K[Kman 3 ls
+No manual entry for ls in section 3
+See 'man 7 undocumented' for help when manual pages are not available.
+]0;linux@ubuntu: ~/Desktop/workspacelinux@ubuntu:~/Desktop/workspace$ man 2 ls
+No manual entry for ls in section 2
+See 'man 7 undocumented' for help when manual pages are not available.
+]0;linux@ubuntu: ~/Desktop/workspacelinux@ubuntu:~/Desktop/workspace$ man1[K 1 ls
+[?1049h[?1h=LS(1)                              User Commands                             LS(1)[m
+[m
+[1mNAME[0m[m
+       ls - list directory contents[m
+[m
+[1mSYNOPSIS[0m[m
+       [1mls[0m [[4mOPTION[24m]... [[4mFILE[24m]...[m
+[m
+[1mDESCRIPTION[0m[m
+       List  information about the FILEs (the current directory by default).  Sort[m
+       entries alphabetically if none of [1m-cftuvSUX[0m nor [1m--sort[0m is specified.[m
+[m
+       Mandatory arguments to long options are mandatory for short options too.[m
+[m
+       [1m-a[0m, [1m--all[0m[m
+              do not ignore entries starting with .[m
+[m
+       [1m-A[0m, [1m--almost-all[0m[m
+              do not list implied . and ..[m
+[m
+       [1m--author[0m[m
+              with [1m-l[0m, print the author of each file[m
+[m
+       [1m-b[0m, [1m--escape[0m[m
+              print C-style escapes for nongraphic characters[m
+[m
+       [1m--block-size[0m=[4mSIZE[24m[m
+              scale sizes by SIZE before printing  them.   E.g.,  `--block-size=M'[m
+              prints sizes in units of 1,048,576 bytes.  See SIZE format below.[m
+[m
+       [1m-B[0m, [1m--ignore-backups[0m[m
+              do not list implied entries ending with ~[m
+[m
+[7m Manual page ls(1) line 1 (press h for help or q to quit)[27m[K[K       [1m-c[0m     with  [1m-lt[0m:  sort  by,  and show, ctime (time of last modification of[m
+[7m Manual page ls(1) line 2 (press h for help or q to quit)[27m[K[K              file status information) with [1m-l[0m: show ctime and sort by name other‐[m
+[7m Manual page ls(1) line 5 (press h for help or q to quit)[27m[K[K              wise: sort by ctime, newest first[m
+[7m Manual page ls(1) line 6 (press h for help or q to quit)[27m[K[K[m
+[7m Manual page ls(1) line 7 (press h for help or q to quit)[27m[K[K       [1m-C[0m     list entries by columns[m
+[7m Manual page ls(1) line 8 (press h for help or q to quit)[27m[K[K[m
+[7m Manual page ls(1) line 9 (press h for help or q to quit)[27m[K[K       [1m--color[0m[=[4mWHEN[24m][m
+[7m Manual page ls(1) line 10 (press h for help or q to quit)[27m[K[K              colorize the output.  WHEN defaults to `always' or can be `never' or[m
+[7m Manual page ls(1) line 11 (press h for help or q to quit)[27m[K[K              `auto'.  More info below[m
+[7m Manual page ls(1) line 12 (press h for help or q to quit)[27m[K[K[m
+[7m Manual page ls(1) line 13 (press h for help or q to quit)[27m[K[K       [1m-d[0m, [1m--directory[0m[m
+[7m Manual page ls(1) line 14 (press h for help or q to quit)[27m[K[K              list directory entries instead of contents, and do  not  dereference[m
+[7m Manual page ls(1) line 15 (press h for help or q to quit)[27m[K[K              symbolic links[m
+[7m Manual page ls(1) line 16 (press h for help or q to quit)[27m[K[K[m
+[7m Manual page ls(1) line 17 (press h for help or q to quit)[27m[K[K       [1m-D[0m, [1m--dired[0m[m
+[7m Manual page ls(1) line 18 (press h for help or q to quit)[27m[K[K              generate output designed for Emacs' dired mode[m
+[7m Manual page ls(1) line 19 (press h for help or q to quit)[27m[K[K[m
+[7m Manual page ls(1) line 20 (press h for help or q to quit)[27m[K[K       [1m-f[0m     do not sort, enable [1m-aU[0m, disable [1m-ls[0m [1m--color[0m[m
+[7m Manual page ls(1) line 21 (press h for help or q to quit)[27m[K[K[m
+[7m Manual page ls(1) line 22 (press h for help or q to quit)[27m[K[K       [1m-F[0m, [1m--classify[0m[m
+[7m Manual page ls(1) line 23 (press h for help or q to quit)[27m[K[K              append indicator (one of */=>@|) to entries[m
+[7m Manual page ls(1) line 24 (press h for help or q to quit)[27m[K[K[m
+[7m Manual page ls(1) line 25 (press h for help or q to quit)[27m[K[K       [1m--file-type[0m[m
+[7m Manual page ls(1) line 26 (press h for help or q to quit)[27m[K[K              likewise, except do not append `*'[m
+[7m Manual page ls(1) line 27 (press h for help or q to quit)[27m[K[K[m
+[7m Manual page ls(1) line 28 (press h for help or q to quit)[27m[K[K       [1m--format[0m=[4mWORD[24m[m
+[7m Manual page ls(1) line 29 (press h for help or q to quit)[27m[K[K              across [1m-x[0m, commas [1m-m[0m, horizontal [1m-x[0m, long [1m-l[0m, single-column [1m-1[0m, ver‐[m
+[7m Manual page ls(1) line 30 (press h for help or q to quit)[27m[K[K              bose [1m-l[0m, vertical [1m-C[0m[m
+[7m Manual page ls(1) line 31 (press h for help or q to quit)[27m[K[K[m
+[7m Manual page ls(1) line 32 (press h for help or q to quit)[27m[K[K       [1m--full-time[0m[m
+[7m Manual page ls(1) line 33 (press h for help or q to quit)[27m[K[K              like [1m-l[0m [1m--time-style[0m=[4mfull-iso[24m[m
+[7m Manual page ls(1) line 34 (press h for help or q to quit)[27m[K[K[m
+[7m Manual page ls(1) line 35 (press h for help or q to quit)[27m[K[K       [1m-g[0m     like [1m-l[0m, but do not list owner[m
+[7m Manual page ls(1) line 36 (press h for help or q to quit)[27m[K[K[m
+[7m Manual page ls(1) line 37 (press h for help or q to quit)[27m[K[K       [1m--group-directories-first[0m[m
+[7m Manual page ls(1) line 38 (press h for help or q to quit)[27m[K[K              group directories before files.[m
+[7m Manual page ls(1) line 39 (press h for help or q to quit)[27m[K[K[m
+[7m Manual page ls(1) line 40 (press h for help or q to quit)[27m[K[K              augment with a [1m--sort[0m option, but any use of [1m--sort[0m=[4mnone[24m  ([1m-U[0m)  dis‐[m
+[7m Manual page ls(1) line 41 (press h for help or q to quit)[27m[K[K              ables grouping[m
+[7m Manual page ls(1) line 42 (press h for help or q to quit)[27m[K[K[m
+[7m Manual page ls(1) line 43 (press h for help or q to quit)[27m[K[K       [1m-G[0m, [1m--no-group[0m[m
+[7m Manual page ls(1) line 44 (press h for help or q to quit)[27m[K[K              in a long listing, don't print group names[m
+[7m Manual page ls(1) line 45 (press h for help or q to quit)[27m[K[K[m
+[7m Manual page ls(1) line 46 (press h for help or q to quit)[27m[K[K       [1m-h[0m, [1m--human-readable[0m[m
+[7m Manual page ls(1) line 47 (press h for help or q to quit)[27m[K[K              with [1m-l[0m, print sizes in human readable format (e.g., 1K 234M 2G)[m
+[7m Manual page ls(1) line 48 (press h for help or q to quit)[27m[K[K[m
+[7m Manual page ls(1) line 49 (press h for help or q to quit)[27m[K[K[HM              symbolic links[m
+[34;1H[K[7m Manual page ls(1) line 48 (press h for help or q to quit)[27m[K[K[HM              list directory entries instead of contents, and do  not  dereference[m
+[34;1H[K[7m Manual page ls(1) line 47 (press h for help or q to quit)[27m[K[K[HM       [1m-d[0m, [1m--directory[0m[m
+[34;1H[K[7m Manual page ls(1) line 46 (press h for help or q to quit)[27m[K[K[HM[m
+[34;1H[K[7m Manual page ls(1) line 45 (press h for help or q to quit)[27m[K[K[HM              `auto'.  More info below[m
+[34;1H[K[7m Manual page ls(1) line 44 (press h for help or q to quit)[27m[K[K[HM              colorize the output.  WHEN defaults to `always' or can be `never' or[m
+[34;1H[K[7m Manual page ls(1) line 43 (press h for help or q to quit)[27m[K[K[HM       [1m--color[0m[=[4mWHEN[24m][m
+[34;1H[K[7m Manual page ls(1) line 42 (press h for help or q to quit)[27m[K[K[?1l>[?1049l]0;linux@ubuntu: ~/Desktop/workspacelinux@ubuntu:~/Desktop/workspace$ ls -d
+[0m[01;34m.[0m
+]0;linux@ubuntu: ~/Desktop/workspacelinux@ubuntu:~/Desktop/workspace$ ls -da
+[0m[01;34m.[0m
+]0;linux@ubuntu: ~/Desktop/workspacelinux@ubuntu:~/Desktop/workspace$ ls -ld
+drwxrwxr-x 17 linux linux 4096 Mar  8 17:08 [0m[01;34m.[0m
+]0;linux@ubuntu: ~/Desktop/workspacelinux@ubuntu:~/Desktop/workspace$ man ls
+[?1049h[?1h=LS(1)                              User Commands                             LS(1)[m
+[m
+[1mNAME[0m[m
+       ls - list directory contents[m
+[m
+[1mSYNOPSIS[0m[m
+       [1mls[0m [[4mOPTION[24m]... [[4mFILE[24m]...[m
+[m
+[1mDESCRIPTION[0m[m
+       List  information about the FILEs (the current directory by default).  Sort[m
+       entries alphabetically if none of [1m-cftuvSUX[0m nor [1m--sort[0m is specified.[m
+[m
+       Mandatory arguments to long options are mandatory for short options too.[m
+[m
+       [1m-a[0m, [1m--all[0m[m
+              do not ignore entries starting with .[m
+[m
+       [1m-A[0m, [1m--almost-all[0m[m
+              do not list implied . and ..[m
+[m
+       [1m--author[0m[m
+              with [1m-l[0m, print the author of each file[m
+[m
+       [1m-b[0m, [1m--escape[0m[m
+              print C-style escapes for nongraphic characters[m
+[m
+       [1m--block-size[0m=[4mSIZE[24m[m
+              scale sizes by SIZE before printing  them.   E.g.,  `--block-size=M'[m
+              prints sizes in units of 1,048,576 bytes.  See SIZE format below.[m
+[m
+       [1m-B[0m, [1m--ignore-backups[0m[m
+              do not list implied entries ending with ~[m
+[m
+[7m Manual page ls(1) line 1 (press h for help or q to quit)[27m[K[K       [1m-c[0m     with  [1m-lt[0m:  sort  by,  and show, ctime (time of last modification of[m
+[7m Manual page ls(1) line 2 (press h for help or q to quit)[27m[K[K              file status information) with [1m-l[0m: show ctime and sort by name other‐[m
+[7m Manual page ls(1) line 5 (press h for help or q to quit)[27m[K[K              wise: sort by ctime, newest first[m
+[7m Manual page ls(1) line 6 (press h for help or q to quit)[27m[K[K[m
+[7m Manual page ls(1) line 7 (press h for help or q to quit)[27m[K[K       [1m-C[0m     list entries by columns[m
+[7m Manual page ls(1) line 8 (press h for help or q to quit)[27m[K[K[m
+[7m Manual page ls(1) line 9 (press h for help or q to quit)[27m[K[K       [1m--color[0m[=[4mWHEN[24m][m
+[7m Manual page ls(1) line 10 (press h for help or q to quit)[27m[K[K              colorize the output.  WHEN defaults to `always' or can be `never' or[m
+[7m Manual page ls(1) line 11 (press h for help or q to quit)[27m[K[K              `auto'.  More info below[m
+[7m Manual page ls(1) line 12 (press h for help or q to quit)[27m[K[K[m
+[7m Manual page ls(1) line 13 (press h for help or q to quit)[27m[K[K       [1m-d[0m, [1m--directory[0m[m
+[7m Manual page ls(1) line 14 (press h for help or q to quit)[27m[K[K              list directory entries instead of contents, and do  not  dereference[m
+[7m Manual page ls(1) line 15 (press h for help or q to quit)[27m[K[K              symbolic links[m
+[7m Manual page ls(1) line 16 (press h for help or q to quit)[27m[K[K[m
+[7m Manual page ls(1) line 17 (press h for help or q to quit)[27m[K[K       [1m-D[0m, [1m--dired[0m[m
+[7m Manual page ls(1) line 18 (press h for help or q to quit)[27m[K[K              generate output designed for Emacs' dired mode[m
+[7m Manual page ls(1) line 19 (press h for help or q to quit)[27m[K[K[m
+[7m Manual page ls(1) line 20 (press h for help or q to quit)[27m[K[K       [1m-f[0m     do not sort, enable [1m-aU[0m, disable [1m-ls[0m [1m--color[0m[m
+[7m Manual page ls(1) line 21 (press h for help or q to quit)[27m[K[K[m
+[7m Manual page ls(1) line 22 (press h for help or q to quit)[27m[K[K       [1m-F[0m, [1m--classify[0m[m
+[7m Manual page ls(1) line 23 (press h for help or q to quit)[27m[K[K              append indicator (one of */=>@|) to entries[m
+[7m Manual page ls(1) line 24 (press h for help or q to quit)[27m[K[K[m
+[7m Manual page ls(1) line 25 (press h for help or q to quit)[27m[K[K       [1m--file-type[0m[m
+[7m Manual page ls(1) line 26 (press h for help or q to quit)[27m[K[K              likewise, except do not append `*'[m
+[7m Manual page ls(1) line 27 (press h for help or q to quit)[27m[K[K[m
+[7m Manual page ls(1) line 28 (press h for help or q to quit)[27m[K[K       [1m--format[0m=[4mWORD[24m[m
+[7m Manual page ls(1) line 29 (press h for help or q to quit)[27m[K[K              across [1m-x[0m, commas [1m-m[0m, horizontal [1m-x[0m, long [1m-l[0m, single-column [1m-1[0m, ver‐[m
+[7m Manual page ls(1) line 30 (press h for help or q to quit)[27m[K[K              bose [1m-l[0m, vertical [1m-C[0m[m
+[7m Manual page ls(1) line 31 (press h for help or q to quit)[27m[K[K[m
+[7m Manual page ls(1) line 32 (press h for help or q to quit)[27m[K[K       [1m--full-time[0m[m
+[7m Manual page ls(1) line 33 (press h for help or q to quit)[27m[K[K              like [1m-l[0m [1m--time-style[0m=[4mfull-iso[24m[m
+[7m Manual page ls(1) line 34 (press h for help or q to quit)[27m[K[K[m
+[7m Manual page ls(1) line 35 (press h for help or q to quit)[27m[K[K       [1m-g[0m     like [1m-l[0m, but do not list owner[m
+[7m Manual page ls(1) line 36 (press h for help or q to quit)[27m[K[K[m
+[7m Manual page ls(1) line 37 (press h for help or q to quit)[27m[K[K       [1m--group-directories-first[0m[m
+[7m Manual page ls(1) line 38 (press h for help or q to quit)[27m[K[K              group directories before files.[m
+[7m Manual page ls(1) line 39 (press h for help or q to quit)[27m[K[K[m
+[7m Manual page ls(1) line 40 (press h for help or q to quit)[27m[K[K              augment with a [1m--sort[0m option, but any use of [1m--sort[0m=[4mnone[24m  ([1m-U[0m)  dis‐[m
+[7m Manual page ls(1) line 41 (press h for help or q to quit)[27m[K[K              ables grouping[m
+[7m Manual page ls(1) line 42 (press h for help or q to quit)[27m[K[K[m
+[7m Manual page ls(1) line 43 (press h for help or q to quit)[27m[K[K       [1m-G[0m, [1m--no-group[0m[m
+[7m Manual page ls(1) line 44 (press h for help or q to quit)[27m[K[K              in a long listing, don't print group names[m
+[7m Manual page ls(1) line 45 (press h for help or q to quit)[27m[K[K[m
+[7m Manual page ls(1) line 46 (press h for help or q to quit)[27m[K[K       [1m-h[0m, [1m--human-readable[0m[m
+[7m Manual page ls(1) line 47 (press h for help or q to quit)[27m[K[K              with [1m-l[0m, print sizes in human readable format (e.g., 1K 234M 2G)[m
+[7m Manual page ls(1) line 48 (press h for help or q to quit)[27m[K[K[m
+[7m Manual page ls(1) line 49 (press h for help or q to quit)[27m[K[K       [1m--si[0m   likewise, but use powers of 1000 not 1024[m
+[7m Manual page ls(1) line 50 (press h for help or q to quit)[27m[K[K[m
+[7m Manual page ls(1) line 51 (press h for help or q to quit)[27m[K[K       [1m-H[0m, [1m--dereference-command-line[0m[m
+[7m Manual page ls(1) line 52 (press h for help or q to quit)[27m[K[K              follow symbolic links listed on the command line[m
+[7m Manual page ls(1) line 53 (press h for help or q to quit)[27m[K[K[m
+[7m Manual page ls(1) line 54 (press h for help or q to quit)[27m[K[K       [1m--dereference-command-line-symlink-to-dir[0m[m
+[7m Manual page ls(1) line 55 (press h for help or q to quit)[27m[K[K              follow each command line symbolic link that points to a directory[m
+[7m Manual page ls(1) line 56 (press h for help or q to quit)[27m[K[K[m
+[7m Manual page ls(1) line 57 (press h for help or q to quit)[27m[K[K       [1m--hide[0m=[4mPATTERN[24m[m
+[7m Manual page ls(1) line 58 (press h for help or q to quit)[27m[K[K              do not list implied entries matching shell PATTERN (overridden by [1m-a[0m[m
+[7m Manual page ls(1) line 59 (press h for help or q to quit)[27m[K[K              or [1m-A[0m)[m
+[7m Manual page ls(1) line 60 (press h for help or q to quit)[27m[K[K[m
+[7m Manual page ls(1) line 61 (press h for help or q to quit)[27m[K[K       [1m--indicator-style[0m=[4mWORD[24m[m
+[7m Manual page ls(1) line 62 (press h for help or q to quit)[27m[K[K              append indicator with style WORD to  entry  names:  none  (default),[m
+[7m Manual page ls(1) line 63 (press h for help or q to quit)[27m[K[K              slash ([1m-p[0m), file-type ([1m--file-type[0m), classify ([1m-F[0m)[m
+[7m Manual page ls(1) line 64 (press h for help or q to quit)[27m[K[K[m
+[7m Manual page ls(1) line 65 (press h for help or q to quit)[27m[K[K       [1m-i[0m, [1m--inode[0m[m
+[7m Manual page ls(1) line 66 (press h for help or q to quit)[27m[K[K              print the index number of each file[m
+[7m Manual page ls(1) line 67 (press h for help or q to quit)[27m[K[K[m
+[7m Manual page ls(1) line 68 (press h for help or q to quit)[27m[K[K       [1m-I[0m, [1m--ignore[0m=[4mPATTERN[24m[m
+[7m Manual page ls(1) line 69 (press h for help or q to quit)[27m[K[K              do not list implied entries matching shell PATTERN[m
+[7m Manual page ls(1) line 70 (press h for help or q to quit)[27m[K[K[m
+[7m Manual page ls(1) line 71 (press h for help or q to quit)[27m[K[K       [1m-k[0m     like [1m--block-size[0m=[4m1K[24m[m
+[7m Manual page ls(1) line 72 (press h for help or q to quit)[27m[K[K[m
+[7m Manual page ls(1) line 73 (press h for help or q to quit)[27m[K[K       [1m-l[0m     use a long listing format[m
+[7m Manual page ls(1) line 74 (press h for help or q to quit)[27m[K[K[m
+[7m Manual page ls(1) line 75 (press h for help or q to quit)[27m[K[K       [1m-L[0m, [1m--dereference[0m[m
+[7m Manual page ls(1) line 76 (press h for help or q to quit)[27m[K[K              when  showing file information for a symbolic link, show information[m
+[7m Manual page ls(1) line 77 (press h for help or q to quit)[27m[K[K              for the file the link references rather than for the link itself[m
+[7m Manual page ls(1) line 78 (press h for help or q to quit)[27m[K[K[m
+[7m Manual page ls(1) line 79 (press h for help or q to quit)[27m[K[K       [1m-m[0m     fill width with a comma separated list of entries[m
+[7m Manual page ls(1) line 80 (press h for help or q to quit)[27m[K[K[m
+[7m Manual page ls(1) line 81 (press h for help or q to quit)[27m[K[K       [1m-n[0m, [1m--numeric-uid-gid[0m[m
+[7m Manual page ls(1) line 82 (press h for help or q to quit)[27m[K[K              like [1m-l[0m, but list numeric user and group IDs[m
+[7m Manual page ls(1) line 83 (press h for help or q to quit)[27m[K[K[m
+[7m Manual page ls(1) line 84 (press h for help or q to quit)[27m[K[K       [1m-N[0m, [1m--literal[0m[m
+[7m Manual page ls(1) line 85 (press h for help or q to quit)[27m[K[K              print raw entry names (don't  treat  e.g.  control  characters  spe‐[m
+[7m Manual page ls(1) line 86 (press h for help or q to quit)[27m[K[K              cially)[m
+[7m Manual page ls(1) line 87 (press h for help or q to quit)[27m[K[K[m
+[7m Manual page ls(1) line 88 (press h for help or q to quit)[27m[K[K       [1m-o[0m     like [1m-l[0m, but do not list group information[m
+[7m Manual page ls(1) line 89 (press h for help or q to quit)[27m[K[K[m
+[7m Manual page ls(1) line 90 (press h for help or q to quit)[27m[K[K       [1m-p[0m, [1m--indicator-style[0m=[4mslash[24m[m
+[7m Manual page ls(1) line 91 (press h for help or q to quit)[27m[K[K              append / indicator to directories[m
+[7m Manual page ls(1) line 92 (press h for help or q to quit)[27m[K[K[m
+[7m Manual page ls(1) line 93 (press h for help or q to quit)[27m[K[K       [1m-q[0m, [1m--hide-control-chars[0m[m
+[7m Manual page ls(1) line 94 (press h for help or q to quit)[27m[K[K              print ? instead of non graphic characters[m
+[7m Manual page ls(1) line 95 (press h for help or q to quit)[27m[K[K[m
+[7m Manual page ls(1) line 96 (press h for help or q to quit)[27m[K[K       [1m--show-control-chars[0m[m
+[7m Manual page ls(1) line 97 (press h for help or q to quit)[27m[K[K              show  non  graphic  characters as-is (default unless program is `ls'[m
+[7m Manual page ls(1) line 98 (press h for help or q to quit)[27m[K[K              and output is a terminal)[m
+[7m Manual page ls(1) line 99 (press h for help or q to quit)[27m[K[K[m
+[7m Manual page ls(1) line 100 (press h for help or q to quit)[27m[K[K       [1m-Q[0m, [1m--quote-name[0m[m
+[7m Manual page ls(1) line 101 (press h for help or q to quit)[27m[K[K              enclose entry names in double quotes[m
+[7m Manual page ls(1) line 102 (press h for help or q to quit)[27m[K[K[m
+[7m Manual page ls(1) line 103 (press h for help or q to quit)[27m[K[K       [1m--quoting-style[0m=[4mWORD[24m[m
+[7m Manual page ls(1) line 104 (press h for help or q to quit)[27m[K[K              use quoting style WORD for  entry  names:  literal,  locale,  shell,[m
+[7m Manual page ls(1) line 105 (press h for help or q to quit)[27m[K[K              shell-always, c, escape[m
+[7m Manual page ls(1) line 106 (press h for help or q to quit)[27m[K[K[m
+[7m Manual page ls(1) line 107 (press h for help or q to quit)[27m[K[K       [1m-r[0m, [1m--reverse[0m[m
+[7m Manual page ls(1) line 108 (press h for help or q to quit)[27m[K[K              reverse order while sorting[m
+[7m Manual page ls(1) line 109 (press h for help or q to quit)[27m[K[K[m
+[7m Manual page ls(1) line 110 (press h for help or q to quit)[27m[K[K       [1m-R[0m, [1m--recursive[0m[m
+[7m Manual page ls(1) line 111 (press h for help or q to quit)[27m[K[K              list subdirectories recursively[m
+[7m Manual page ls(1) line 112 (press h for help or q to quit)[27m[K[K[m
+[7m Manual page ls(1) line 113 (press h for help or q to quit)[27m[K[K       [1m-s[0m, [1m--size[0m[m
+[7m Manual page ls(1) line 114 (press h for help or q to quit)[27m[K[K              print the allocated size of each file, in blocks[m
+[7m Manual page ls(1) line 115 (press h for help or q to quit)[27m[K[K[m
+[7m Manual page ls(1) line 116 (press h for help or q to quit)[27m[K[K       [1m-S[0m     sort by file size[m
+[7m Manual page ls(1) line 117 (press h for help or q to quit)[27m[K[K[m
+[7m Manual page ls(1) line 118 (press h for help or q to quit)[27m[K[K       [1m--sort[0m=[4mWORD[24m[m
+[7m Manual page ls(1) line 119 (press h for help or q to quit)[27m[K[K              sort  by  WORD instead of name: none [1m-U[0m, extension [1m-X[0m, size [1m-S[0m, time[m
+[7m Manual page ls(1) line 120 (press h for help or q to quit)[27m[K[K              [1m-t[0m, version [1m-v[0m[m
+[7m Manual page ls(1) line 121 (press h for help or q to quit)[27m[K[K[m
+[7m Manual page ls(1) line 122 (press h for help or q to quit)[27m[K[K       [1m--time[0m=[4mWORD[24m[m
+[7m Manual page ls(1) line 123 (press h for help or q to quit)[27m[K[K              with [1m-l[0m, show time as WORD instead of modification time:  atime  [1m-u[0m,[m
+[7m Manual page ls(1) line 124 (press h for help or q to quit)[27m[K[K              access  [1m-u[0m,  use  [1m-u[0m,  ctime [1m-c[0m, or status [1m-c[0m; use specified time as[m
+[7m Manual page ls(1) line 125 (press h for help or q to quit)[27m[K[K              sort key if [1m--sort[0m=[4mtime[24m[m
+[7m Manual page ls(1) line 126 (press h for help or q to quit)[27m[K[K[m
+[7m Manual page ls(1) line 127 (press h for help or q to quit)[27m[K[K       [1m--time-style[0m=[4mSTYLE[24m[m
+[7m Manual page ls(1) line 128 (press h for help or q to quit)[27m[K[K              with [1m-l[0m, show times using  style  STYLE:  full-iso,  long-iso,  iso,[m
+[7m Manual page ls(1) line 129 (press h for help or q to quit)[27m[K[K              locale,  +FORMAT.   FORMAT  is interpreted like `date'; if FORMAT is[m
+[7m Manual page ls(1) line 130 (press h for help or q to quit)[27m[K[K              FORMAT1<newline>FORMAT2, FORMAT1 applies  to  non-recent  files  and[m
+[7m Manual page ls(1) line 131 (press h for help or q to quit)[27m[K[K              FORMAT2  to  recent files; if STYLE is prefixed with `posix-', STYLE[m
+[7m Manual page ls(1) line 132 (press h for help or q to quit)[27m[K[K              takes effect only outside the POSIX locale[m
+[7m Manual page ls(1) line 133 (press h for help or q to quit)[27m[K[K[m
+[7m Manual page ls(1) line 134 (press h for help or q to quit)[27m[K[K       [1m-t[0m     sort by modification time, newest first[m
+[7m Manual page ls(1) line 135 (press h for help or q to quit)[27m[K[K[m
+[7m Manual page ls(1) line 136 (press h for help or q to quit)[27m[K[K       [1m-T[0m, [1m--tabsize[0m=[4mCOLS[24m[m
+[7m Manual page ls(1) line 137 (press h for help or q to quit)[27m[K[K              assume tab stops at each COLS instead of 8[m
+[7m Manual page ls(1) line 138 (press h for help or q to quit)[27m[K[K[m
+[7m Manual page ls(1) line 139 (press h for help or q to quit)[27m[K[K       [1m-u[0m     with [1m-lt[0m: sort by, and show, access time with [1m-l[0m: show  access  time[m
+[7m Manual page ls(1) line 140 (press h for help or q to quit)[27m[K[K              and sort by name otherwise: sort by access time[m
+[7m Manual page ls(1) line 141 (press h for help or q to quit)[27m[K[K[m
+[7m Manual page ls(1) line 142 (press h for help or q to quit)[27m[K[K       [1m-U[0m     do not sort; list entries in directory order[m
+[7m Manual page ls(1) line 143 (press h for help or q to quit)[27m[K[K[m
+[7m Manual page ls(1) line 144 (press h for help or q to quit)[27m[K[K       [1m-v[0m     natural sort of (version) numbers within text[m
+[7m Manual page ls(1) line 145 (press h for help or q to quit)[27m[K[K[m
+[7m Manual page ls(1) line 146 (press h for help or q to quit)[27m[K[K       [1m-w[0m, [1m--width[0m=[4mCOLS[24m[m
+[7m Manual page ls(1) line 147 (press h for help or q to quit)[27m[K[K              assume screen width instead of current value[m
+[7m Manual page ls(1) line 148 (press h for help or q to quit)[27m[K[K[m
+[7m Manual page ls(1) line 149 (press h for help or q to quit)[27m[K[K       [1m-x[0m     list entries by lines instead of by columns[m
+[7m Manual page ls(1) line 150 (press h for help or q to quit)[27m[K[K[m
+[7m Manual page ls(1) line 151 (press h for help or q to quit)[27m[K[K       [1m-X[0m     sort alphabetically by entry extension[m
+[7m Manual page ls(1) line 152 (press h for help or q to quit)[27m[K[K[m
+[7m Manual page ls(1) line 153 (press h for help or q to quit)[27m[K[K       [1m-Z[0m, [1m--context[0m[m
+[7m Manual page ls(1) line 154 (press h for help or q to quit)[27m[K[K              print any SELinux security context of each file[m
+[7m Manual page ls(1) line 155 (press h for help or q to quit)[27m[K[K[m
+[7m Manual page ls(1) line 156 (press h for help or q to quit)[27m[K[K       [1m-1[0m     list one file per line[m
+[7m Manual page ls(1) line 157 (press h for help or q to quit)[27m[K[K[m
+[7m Manual page ls(1) line 158 (press h for help or q to quit)[27m[K[K       [1m--help[0m display this help and exit[m
+[7m Manual page ls(1) line 159 (press h for help or q to quit)[27m[K[K[m
+[7m Manual page ls(1) line 160 (press h for help or q to quit)[27m[K[K       [1m--version[0m[m
+[7m Manual page ls(1) line 161 (press h for help or q to quit)[27m[K[K              output version information and exit[m
+[7m Manual page ls(1) line 162 (press h for help or q to quit)[27m[K[K[m
+[7m Manual page ls(1) line 163 (press h for help or q to quit)[27m[K[K       SIZE may be (or may be an integer optionally followed by) one of following:[m
+[7m Manual page ls(1) line 164 (press h for help or q to quit)[27m[K[K       KB 1000, K 1024, MB 1000*1000, M 1024*1024, and so on for G, T, P, E, Z, Y.[m
+[7m Manual page ls(1) line 165 (press h for help or q to quit)[27m[K[K[m
+[7m Manual page ls(1) line 166 (press h for help or q to quit)[27m[K[K       Using color to distinguish file types is disabled both by default and  with[m
+[7m Manual page ls(1) line 167 (press h for help or q to quit)[27m[K[K       [1m--color[0m=[4mnever[24m.   With [1m--color[0m=[4mauto[24m, ls emits color codes only when standard[m
+[7m Manual page ls(1) line 168 (press h for help or q to quit)[27m[K[K       output is connected to a terminal.  The LS_COLORS environment variable  can[m
+[7m Manual page ls(1) line 169 (press h for help or q to quit)[27m[K[K       change the settings.  Use the dircolors command to set it.[m
+[7m Manual page ls(1) line 170 (press h for help or q to quit)[27m[K[K[m
+[7m Manual page ls(1) line 171 (press h for help or q to quit)[27m[K[K   [1mExit[0m [1mstatus:[0m[m
+[7m Manual page ls(1) line 172 (press h for help or q to quit)[27m[K[K       0      if OK,[m
+[7m Manual page ls(1) line 173 (press h for help or q to quit)[27m[K[K[m
+[7m Manual page ls(1) line 174 (press h for help or q to quit)[27m[K[K       1      if minor problems (e.g., cannot access subdirectory),[m
+[7m Manual page ls(1) line 175 (press h for help or q to quit)[27m[K[K[m
+[7m Manual page ls(1) line 176 (press h for help or q to quit)[27m[K[K       2      if serious trouble (e.g., cannot access command-line argument).[m
+[7m Manual page ls(1) line 177 (press h for help or q to quit)[27m[K[K[m
+[7m Manual page ls(1) line 178 (press h for help or q to quit)[27m[K[K[1mAUTHOR[0m[m
+[7m Manual page ls(1) line 179 (press h for help or q to quit)[27m[K[K       Written by Richard M. Stallman and David MacKenzie.[m
+[7m Manual page ls(1) line 180 (press h for help or q to quit)[27m[K[K[m
+[7m Manual page ls(1) line 181 (press h for help or q to quit)[27m[K[K[1mREPORTING[0m [1mBUGS[0m[m
+[7m Manual page ls(1) line 182 (press h for help or q to quit)[27m[K[K       Report ls bugs to bug-coreutils@gnu.org[m
+[7m Manual page ls(1) line 183 (press h for help or q to quit)[27m[K[K       GNU coreutils home page: <http://www.gnu.org/software/coreutils/>[m
+[7m Manual page ls(1) line 184 (press h for help or q to quit)[27m[K[K       General help using GNU software: <http://www.gnu.org/gethelp/>[m
+[7m Manual page ls(1) line 185 (press h for help or q to quit)[27m[K[K       Report ls translation bugs to <http://translationproject.org/team/>[m
+[7m Manual page ls(1) line 186 (press h for help or q to quit)[27m[K[K[m
+[7m Manual page ls(1) line 187 (press h for help or q to quit)[27m[K[K[?1l>[?1049l]0;linux@ubuntu: ~/Desktop/workspacelinux@ubuntu:~/Desktop/workspace$ 
+]0;linux@ubuntu: ~/Desktop/workspacelinux@ubuntu:~/Desktop/workspace$ [H[2J]0;linux@ubuntu: ~/Desktop/workspacelinux@ubuntu:~/Desktop/workspace$ who
+linux    tty7         2016-03-08 08:19
+linux    pts/1        2016-03-08 09:06 (:0.0)
+]0;linux@ubuntu: ~/Desktop/workspacelinux@ubuntu:~/Desktop/workspace$ who 
+linux    tty7         2016-03-08 08:19
+linux    pts/1        2016-03-08 09:06 (:0.0)
+]0;linux@ubuntu: ~/Desktop/workspacelinux@ubuntu:~/Desktop/workspace$ man who
+[?1049h[?1h=WHO(1)                             User Commands                            WHO(1)[m
+[m
+[1mNAME[0m[m
+       who - show who is logged on[m
+[m
+[1mSYNOPSIS[0m[m
+       [1mwho[0m [[4mOPTION[24m]... [ [4mFILE[24m [4m|[24m [4mARG1[24m [4mARG2[24m ][m
+[m
+[1mDESCRIPTION[0m[m
+       Print information about users who are currently logged in.[m
+[m
+       [1m-a[0m, [1m--all[0m[m
+              same as [1m-b[0m [1m-d[0m [1m--login[0m [1m-p[0m [1m-r[0m [1m-t[0m [1m-T[0m [1m-u[0m[m
+[m
+       [1m-b[0m, [1m--boot[0m[m
+              time of last system boot[m
+[m
+       [1m-d[0m, [1m--dead[0m[m
+              print dead processes[m
+[m
+       [1m-H[0m, [1m--heading[0m[m
+              print line of column headings[m
+[m
+       [1m--ips[0m  print  ips  instead of hostnames. with [1m--lookup[0m, canonicalizes based[m
+              on stored IP, if available, rather than stored hostname[m
+[m
+       [1m-l[0m, [1m--login[0m[m
+              print system login processes[m
+[m
+       [1m--lookup[0m[m
+              attempt to canonicalize hostnames via DNS[m
+[m
+       [1m-m[0m     only hostname and user associated with stdin[m
+[7m Manual page who(1) line 1 (press h for help or q to quit)[27m[K[K[m
+[7m Manual page who(1) line 2 (press h for help or q to quit)[27m[K[K       [1m-p[0m, [1m--process[0m[m
+[7m Manual page who(1) line 5 (press h for help or q to quit)[27m[K[K              print active processes spawned by init[m
+[7m Manual page who(1) line 6 (press h for help or q to quit)[27m[K[K[m
+[7m Manual page who(1) line 7 (press h for help or q to quit)[27m[K[K       [1m-q[0m, [1m--count[0m[m
+[7m Manual page who(1) line 8 (press h for help or q to quit)[27m[K[K              all login names and number of users logged on[m
+[7m Manual page who(1) line 9 (press h for help or q to quit)[27m[K[K[m
+[7m Manual page who(1) line 10 (press h for help or q to quit)[27m[K[K       [1m-r[0m, [1m--runlevel[0m[m
+[7m Manual page who(1) line 11 (press h for help or q to quit)[27m[K[K              print current runlevel[m
+[7m Manual page who(1) line 12 (press h for help or q to quit)[27m[K[K[m
+[7m Manual page who(1) line 13 (press h for help or q to quit)[27m[K[K       [1m-s[0m, [1m--short[0m[m
+[7m Manual page who(1) line 14 (press h for help or q to quit)[27m[K[K              print only name, line, and time (default)[m
+[7m Manual page who(1) line 15 (press h for help or q to quit)[27m[K[K[m
+[7m Manual page who(1) line 16 (press h for help or q to quit)[27m[K[K       [1m-t[0m, [1m--time[0m[m
+[7m Manual page who(1) line 17 (press h for help or q to quit)[27m[K[K              print last system clock change[m
+[7m Manual page who(1) line 18 (press h for help or q to quit)[27m[K[K[m
+[7m Manual page who(1) line 19 (press h for help or q to quit)[27m[K[K       [1m-T[0m, [1m-w[0m, [1m--mesg[0m[m
+[7m Manual page who(1) line 20 (press h for help or q to quit)[27m[K[K              add user's message status as +, - or ?[m
+[7m Manual page who(1) line 21 (press h for help or q to quit)[27m[K[K[m
+[7m Manual page who(1) line 22 (press h for help or q to quit)[27m[K[K       [1m-u[0m, [1m--users[0m[m
+[7m Manual page who(1) line 23 (press h for help or q to quit)[27m[K[K              list users logged in[m
+[7m Manual page who(1) line 24 (press h for help or q to quit)[27m[K[K[m
+[7m Manual page who(1) line 25 (press h for help or q to quit)[27m[K[K       [1m--message[0m[m
+[7m Manual page who(1) line 26 (press h for help or q to quit)[27m[K[K              same as [1m-T[0m[m
+[7m Manual page who(1) line 27 (press h for help or q to quit)[27m[K[K[m
+[7m Manual page who(1) line 28 (press h for help or q to quit)[27m[K[K       [1m--writable[0m[m
+[7m Manual page who(1) line 29 (press h for help or q to quit)[27m[K[K              same as [1m-T[0m[m
+[7m Manual page who(1) line 30 (press h for help or q to quit)[27m[K[K[m
+[7m Manual page who(1) line 31 (press h for help or q to quit)[27m[K[K       [1m--help[0m display this help and exit[m
+[7m Manual page who(1) line 32 (press h for help or q to quit)[27m[K[K[m
+[7m Manual page who(1) line 33 (press h for help or q to quit)[27m[K[K       [1m--version[0m[m
+[7m Manual page who(1) line 34 (press h for help or q to quit)[27m[K[K              output version information and exit[m
+[7m Manual page who(1) line 35 (press h for help or q to quit)[27m[K[K[m
+[7m Manual page who(1) line 36 (press h for help or q to quit)[27m[K[K       If FILE is not specified, use /var/run/utmp.  /var/log/wtmp as FILE is com‐[m
+[7m Manual page who(1) line 37 (press h for help or q to quit)[27m[K[K[?1l>[?1049l]0;linux@ubuntu: ~/Desktop/workspacelinux@ubuntu:~/Desktop/workspace$ who -t
+]0;linux@ubuntu: ~/Desktop/workspacelinux@ubuntu:~/Desktop/workspace$ who -a
+           system boot  2016-03-08 08:19
+           run-level 2  2016-03-08 08:19
+LOGIN      tty4         2016-03-08 08:19               924 id=4
+LOGIN      tty5         2016-03-08 08:19               934 id=5
+LOGIN      tty2         2016-03-08 08:19               946 id=2
+LOGIN      tty3         2016-03-08 08:19               947 id=3
+LOGIN      tty6         2016-03-08 08:19               949 id=6
+LOGIN      tty1         2016-03-08 08:19              1413 id=1
+linux    + tty7         2016-03-08 08:19  old         2009
+           pts/0        2016-03-08 12:35                 0 id=/0    term=0 exit=0
+linux    + pts/1        2016-03-08 09:06   .          2522 (:0.0)
+]0;linux@ubuntu: ~/Desktop/workspacelinux@ubuntu:~/Desktop/workspace$ who
+linux    tty7         2016-03-08 08:19
+linux    pts/1        2016-03-08 09:06 (:0.0)
+]0;linux@ubuntu: ~/Desktop/workspacelinux@ubuntu:~/Desktop/workspace$ dl
+dl: command not found
+]0;linux@ubuntu: ~/Desktop/workspacelinux@ubuntu:~/Desktop/workspace$ dl[Kidp[K[Ksplay
+The program 'display' can be found in the following packages:
+ * imagemagick
+ * graphicsmagick-imagemagick-compat
+Try: sudo apt-get install <selected package>
+]0;linux@ubuntu: ~/Desktop/w

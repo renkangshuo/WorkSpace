@@ -1,0 +1,51 @@
+#include <string.h>
+#include <unistd.h>
+#include <stdio.h>
+#include <stdlib.h>
+#include <sys/types.h>
+#include <sys/socket.h>
+#include <netinet/in.h>
+#include <arpa/inet.h>
+#include <strings.h>
+
+int main(int argc, const char *argv[]) 
+{
+	int sockfd;
+	int port;
+	char buf[128];
+	bzero(buf, 128);
+
+	struct sockaddr_in local_addr, peer_addr;
+/*	local_addr.sin_port = htons(3000);
+	local_addr.sin_family = AF_INET;
+	local_addr.sin_addr.s_addr = inet_addr("0.0.0.0");
+*/
+	peer_addr.sin_port = htons(3000);
+	peer_addr.sin_family=AF_INET;
+	peer_addr.sin_addr.s_addr = inet_addr("192.168.1.197");
+
+	int len = sizeof(peer_addr);
+
+	if ((sockfd = socket(AF_INET, SOCK_DGRAM, 0)) < 0)
+	{
+		perror("socket: ");
+		return -1;
+	}
+
+	/*if (bind(sockfd, (struct sockaddr *)&local_addr, sizeof(local_addr)) < 0)
+	{
+		perror("bind");
+		return -1;
+	 }*/ 
+
+	while (1) {
+		gets(buf);
+
+		sendto(sockfd, buf, 128, 0, (struct sockaddr*)&peer_addr, len);
+		
+		recvfrom(sockfd, buf, 128, 0, (struct sockaddr*)&peer_addr, &len);
+		printf("%s: %d, %s\n", inet_ntoa(peer_addr.sin_addr), ntohs(peer_addr.sin_port), buf);
+	}
+
+
+}

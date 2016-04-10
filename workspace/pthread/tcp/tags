@@ -1,0 +1,19 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+add_client	echoservers.c	/^void add_client(int connfd, pool *p) $/;"	f
+byte_cnt	echoservers.c	/^int byte_cnt = 0; \/* counts total bytes received by server *\/$/;"	v
+check_clients	echoservers.c	/^void check_clients(pool *p) $/;"	f
+clientfd	echoservers.c	/^	int clientfd[FD_SETSIZE];    \/* set of active descriptors *\/$/;"	m	struct:__anon1	file:
+clientrio	echoservers.c	/^	rio_t clientrio[FD_SETSIZE]; \/* set of active read buffers *\/$/;"	m	struct:__anon1	file:
+init_pool	echoservers.c	/^void init_pool(int listenfd, pool *p) $/;"	f
+main	echoservers.c	/^int main(int argc, char **argv)$/;"	f
+maxfd	echoservers.c	/^	int maxfd;        \/* largest descriptor in read_set *\/   $/;"	m	struct:__anon1	file:
+maxi	echoservers.c	/^	int maxi;         \/* highwater index into client array *\/$/;"	m	struct:__anon1	file:
+nready	echoservers.c	/^	int nready;       \/* number of ready descriptors from select *\/   $/;"	m	struct:__anon1	file:
+pool	echoservers.c	/^} pool; \/\/line:conc:echoservers:endpool$/;"	t	typeref:struct:__anon1	file:
+read_set	echoservers.c	/^	fd_set read_set;  \/* set of all active descriptors *\/$/;"	m	struct:__anon1	file:
+ready_set	echoservers.c	/^	fd_set ready_set; \/* subset of descriptors ready for reading  *\/$/;"	m	struct:__anon1	file:
